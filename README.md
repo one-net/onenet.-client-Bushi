@@ -78,15 +78,17 @@ Our grass-roots approach by accelerating our development process through our sal
  These NFTs will also hold intrinsic voting weight for the future DAO and will be used to stake and vote on governance proposals.
 
 ## Value capture for Secret Network Ecosystem
-A vision to bring traditional gaming to the world of blockchain.
+*A vision to bring traditional gaming to the world of blockchain.*
 
 In a 2021 report, Newzoo estimates the global gaming industry to grow from $176 billion in 2021 to $200 bilion by 2024. We plan on riding this wave and join other developers to bring gaming to blockchain.
 
+* **Uniting the Cosmos**
+* **Bringing Esports to Blockchain**
+* **More traffic for the network**
+
 We strive to merge two different worlds and make a seamless experience blurring the lines between gaming and blockchain technology.
 
-Uniting the Cosmos
-Bringing Esports to Blockchain
-More traffic for the network
+
 
 
 
