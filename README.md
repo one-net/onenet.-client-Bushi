@@ -5,26 +5,27 @@
 * **Payment Address:** 
 
 ## Project Description
-Bushi is a third-person competitive shooter video game that aims to break into the e-sports industry as well as to offer a large scale video game on the Secret Network and the Cosmos. This game also aims to blur the lines of video games and blockchain to seamlessly create an enjoyable player experience for both cryto enthusiasts and regular video game advocates alike.
+Bushi is a third-person competitive shooter video game that aims to break into the e-sports industry as well as to offer a large scale video game on the Secret Network and the Cosmos. This game aims to blur the lines of video games and blockchain to seamlessly create an enjoyable player experience for both cryto enthusiasts and regular video game advocates alike.
 
 Though this is the first video game being released by onenet., we aim to incorporate cross-game functionality with assets created with this first product such as tokens, NFTs, and other digital assets. The incorporation of cross-game functionalities between our assets will 
 
 ## Problem / Solution
 Currently, Cosmos
 
-Problem 1: The gaming community has a strife with pay-to-win games
+**Problem I:** The gaming community has a strife with pay-to-win games and NFTs
 Solution: No Pay-To-Win
-We strongly believe in not creating imbalances of strength within a video game.
+* We strongly believe in not creating imbalances of strength within a video game.
+* Gameplay mechanics should not be affected by any sort of outside assets.
 
-Gameplay mechanics should not be affected by any sort of outside assets.
-Players in this game should experience a video game first.
+Players in this game should experience a video game first. Any added benefits, including liquid assets, should be a bonus to the gaming experience.
 
-Any added benefits, including liquid assets, should be a bonus to the gaming experience.
+**Problem II:** Lack of long-term building value of NFTs
+Solution: Upgradeable and customizable NFTs
 
-Problem 2: Lack of potential building value to NFTs
-Solution: Player accounts hold value and players can add value through skin collection.
+* Players would have the ability to personalize their experience and characters in the game.
+* Player accounts hold value and players can increasingly add value through skin collection.
 
-Supply, demand, time spent, etc... All of these factors are important for NFT value in Bushi. Players who spend more time playing the game get increasingly rewarded to further increase engagement and player retention rates.
+Supply, demand, time spent, etc... All of these factors add to NFT value in Bushi. Players who spend more time playing the game get increasingly rewarded to further increase engagement and retention rates.
 
 Problem 3: Gaming in blockchain are unappealing/low quality
 Solution: Players in this game should experience a video game first.
