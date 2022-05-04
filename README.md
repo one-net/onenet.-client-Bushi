@@ -16,7 +16,7 @@ Though this is the first video game being released by onenet., we aim to incorpo
 ## Problem / Solution
 
 
-###Problem 1:  
+### Problem 1:  
 Crypto gaming is relatively new within the crypto space and though there are many attempts to capture this rapidly growing market, few projects are able to offer a video game that has long term playability, high-quality art, and a truly immersive experience. The oversaturation of 2D/pixelated and repurposed video games fail to capture a supportive community and therefore inadvertently lessen the shelf life of the community as well as the video game.  
 
 **Solution:** onenet. aims to offer an extremely high quality video game with a rather large project scope and vision. Though there are many 2D games and "pixel-
