@@ -125,10 +125,10 @@ Estimated Completion: 2 Months
 | 0b. | Description | One Team will deliver a new and improved UX/UI design based on community feedback. These design changes will include quality of life changes as well as focused user experience changes such as language settings, saved contacts, and light and dark mode options. Support for Polkadot’s native currency, $DOT, will also be enabled for interoperability purposes based on Cherry Network's roadmap for Polkadot's Parachain support. Furthermore, Governance and Staking functionalities will be included for users to be able to participate in these actions through the wallet. Lastly, Cherry Wallet will introduce Firefox Browser Extension support for any user preferring to use this browser. |
 | 0c. | Documentation | We will provide documentation on our Github as well as bi-weekly updates on overall development of Cherry Wallet. |
 | 0d. | Testing | With the initial Milestone 1 delivery, users will be able to download the extension on Chrome or Firefox. |
-| 1. | Website Launch |  |
-| 2. | NFT Art Design |  |
-| 3. | NFT Mint Smart Contracts |  |
-| 4. | Upgradeable NFTs |  |
+| 1. | Website Launch | Build a website to allow access for the actual game, create accounts  for the game, create a wallet for the network, and a place to mint NFTs |
+| 2. | NFT Art Design | Fund artists to create high quality NFTs |
+| 3. | NFT Mint Smart Contracts | Most of the funding will allow us to hire a blockchain developer to help us create smart contracts to mint NFTs |
+| 4. | Upgradeable NFTs | Furthermore, we will need smart contracts to allow cosmetics and newer skins to be added to the initial mint of the NFT |
 
 ### M2:
 Estimated Completion: 2 Months
@@ -137,7 +137,7 @@ Estimated Completion: 2 Months
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
-| 0b. | Description |  |
+| 0b. | Description | Most of milestone two will push for the  |
 | 1. | Server/Infrastructure Changes |  |
 | 2. | In-Game Character Skin Upgrade Functionality |  |
 | 3. | Create Game Launcher |  |
