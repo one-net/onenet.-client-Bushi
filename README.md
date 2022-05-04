@@ -30,7 +30,10 @@ Currently, Cosmos
 > Supply, demand, time spent, etc... All of these factors add to NFT value in Bushi. Players who spend more time playing the game get increasingly rewarded to further increase engagement and retention rates. Extremely skilled players can show off their high rarity skins that were only earned by completing certain challenges. 
 
 **Problem 3:** Gaming in blockchain are unappealing/low quality and disconnected from the actual gaming community  
-**Solution:** Players in this game should experience a video game first before the added benefits of blockchain.  
+**Solution:** Players in this game should experience a video game first before the added benefits of blockchain.
+
+* Gamers are in a completely different world from blockchain-- most do not understand its value and do not care for it. What they would experience must be as seamless and inviting as possible. 
+* The idea of pay-to-earn is an inherent bonus to players-- it should not be a selling point.
 
 > The E-sports world over the past few years has continually increased viewership and partricipation through so many mediums: live streaming, tournaments, tiktoks, and youtube videos. The gaming community loves competition first and any hindrance of graphics and gameplay is very obvious to them and they are incredibly critical of it. Any added benefits, including liquid assets, must only be and should only be a bonus to the gaming experience.  
 
@@ -127,6 +130,8 @@ Estimated Completion: 2 Months
   
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
+| 0a. | License | Apache License, Version 2.0 |
+| 0b. | Description |  |
 | 1. | Server/Infrastructure Changes |  |
 | 2. | In-Game Character Skin Upgrade Functionality |  |
 | 3. | Create Game Launcher |  |
@@ -137,13 +142,17 @@ Estimated Completion: 2 Months
   
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
+| 0a. | License | Apache License, Version 2.0 |
+| 0b. | Description |  |
 | 1. | UI/UX Upgrade on Bushi |  |
 | 2. | Play Testing |  |
 | 3. | Bug Fixing/Balancing |  |
 | 4. | Launch Alpha! |  |
 
-## Additional Information
+## Additional Information  
+The resulting number of combinations is virtually limitless. The team is even planning a large-scale Rarity Contest with a $100,000 prize fund to offer an extra incentive to players who invest in designing rarer, better-looking sharks. After that, the collection will be fixed, and the upgrading process will stop.
 
+On the technical level, each add-on trait is a separate NFT. When it is added to a shark, the smart contract burns the original asset and creates a new one - with the new trait included and with updated metadata. Since SharkRace runs on Binance Smart Chain (a relatively cheap and scalable blockchain), these transactions don't incur a lot of additional costs for the player. 
 
 
 
