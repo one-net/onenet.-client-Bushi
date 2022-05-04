@@ -102,10 +102,10 @@ These milestones may be completed previous/later than the estimated completion d
 ### M1:
 Estimated Completion: 2 Months
 
-**Website Launch**
-**NFT Art Design**
-**NFT Mint Smart Contracts**
-**Upgradeable NFTs**
+**Website Launch**  
+**NFT Art Design**  
+**NFT Mint Smart Contracts**  
+**Upgradeable NFTs**  
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -118,9 +118,9 @@ Estimated Completion: 2 Months
 ### M2:
 Estimated Completion: 2 Months
 
-**Server/Infrastructure Changes**
-**In-Game Character Skin Upgrade Functionality**
-**Create Game Launcher**
+**Server/Infrastructure Changes**  
+**In-Game Character Skin Upgrade Functionality**  
+**Create Game Launcher**  
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -128,10 +128,10 @@ Estimated Completion: 2 Months
 ### M3:
 Estimated Completion: 2 Months
 
-**UI/UX Upgrade on Bushi**
-**Play Testing**
-**Bug Fixing/Balancing**
-**Launch Alpha!**
+**UI/UX Upgrade on Bushi**  
+**Play Testing**  
+**Bug Fixing/Balancing**  
+**Launch Alpha!**  
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
