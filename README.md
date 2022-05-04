@@ -17,7 +17,7 @@ Currently, Cosmos
 * We strongly believe in not creating imbalances of strength within a video game.
 * Gameplay mechanics should not be affected by any sort of outside assets.
 
-Players in this game should experience a video game first. Any added benefits, including liquid assets, should be a bonus to the gaming experience.  
+> Players in this game should experience a video game first. Any added benefits, including liquid assets, should be a bonus to the gaming experience.  
 
 **Problem 2:** Lack of long-term building value of NFTs
 **Solution:** Upgradeable and customizable NFTs
@@ -25,12 +25,12 @@ Players in this game should experience a video game first. Any added benefits, i
 * Players would have the ability to personalize their experience and characters in the game.
 * Player accounts hold value and players can increasingly add value through skin collection.
 
-Supply, demand, time spent, etc... All of these factors add to NFT value in Bushi. Players who spend more time playing the game get increasingly rewarded to further increase engagement and retention rates.  
+> Supply, demand, time spent, etc... All of these factors add to NFT value in Bushi. Players who spend more time playing the game get increasingly rewarded to further increase engagement and retention rates.  
 
 **Problem 3:** Gaming in blockchain are unappealing/low quality and disconnected 
 **Solution:** Players in this game should experience a video game first.
 
-Any added benefits, including liquid assets, should be a bonus to the gaming experience.  
+> Any added benefits, including liquid assets, should be a bonus to the gaming experience.  
 
 ## Detailed Product Description
 No Pay-to-Win
