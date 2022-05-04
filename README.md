@@ -85,7 +85,8 @@ In a 2021 report, Newzoo estimates the global gaming industry to grow from $176 
 * **Uniting the Cosmos**
 * **Bringing Esports to Blockchain**
 * **More traffic for the network**
-* **Promoting Upgradeable NFT Value** 
+* **Promoting Upgradeable NFT Value**  
+
 We strive to merge two different worlds and make a seamless experience blurring the lines between gaming and blockchain technology.
 
 
