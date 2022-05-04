@@ -9,42 +9,42 @@ Bushi is a third-person competitive shooter video game that aims to break into t
 
 Though this is the first video game being released by onenet., we aim to incorporate cross-game functionality with assets created with this first product such as tokens, NFTs, and other digital assets. The incorporation of cross-game functionalities between our assets will 
 
+
 ## Problem / Solution
 Currently, Cosmos
 
-**Problem 1:** The gaming community has a strife with pay-to-win games and NFTs
-**Solution:** No Pay-To-Win
+**Problem 1:** The gaming community has a strife with pay-to-win games and NFTs  
+**Solution:** No Pay-To-Win  
 * We strongly believe in not creating imbalances of strength within a video game.
 * Gameplay mechanics should not be affected by any sort of outside assets.
 
 > Players in this game should experience a video game first. Any added benefits, including liquid assets, should be a bonus to the gaming experience.      
   
 
-**Problem 2:** Lack of long-term building value of NFTs
-**Solution:** Upgradeable and customizable NFTs
+**Problem 2:** Lack of long-term building value of NFTs  
+**Solution:** Upgradeable and customizable NFTs  
 
 * Players would have the ability to personalize their experience and characters in the game.
 * Player accounts hold value and players can increasingly add value through skin collection.
 
 > Supply, demand, time spent, etc... All of these factors add to NFT value in Bushi. Players who spend more time playing the game get increasingly rewarded to further increase engagement and retention rates.  
 
-**Problem 3:** Gaming in blockchain are unappealing/low quality and disconnected 
-**Solution:** Players in this game should experience a video game first.
+**Problem 3:** Gaming in blockchain are unappealing/low quality and disconnected  
+**Solution:** Players in this game should experience a video game first.  
 
 > Any added benefits, including liquid assets, should be a bonus to the gaming experience.  
 
+
+
 ## Detailed Product Description
-No Pay-to-Win
-Reward Dedication
-NFT Assets
 
-Player Experience
-Players can enter PVP matches
-Players will use their skills to defeat their adversaries in differentiating game modes.
-Player will earn in-game currency and experience
-Players use their in-game currency to level accounts and character sknis.
+**Player Experience**
+1. Players can enter PVP matches
+2. Players will build their skills to defeat their adversaries in differentiating game modes.
+3. Player can earn in-game currency and experience
+4. Players may freely use their in-game currency to level their accounts and character skins.
 
-Gameplay Mechanics
+**Gameplay Mechanics**
 Each match, players will rely on their aim and precision to take out their enemies and reap the rewards of victory.
 
 Characters within the game are equipped with special weapons and skills to add onto their repertoire and defeat their enemies.
