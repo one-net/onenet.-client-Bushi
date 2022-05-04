@@ -18,7 +18,7 @@ Currently, Cosmos
 * We strongly believe in not creating imbalances of strength within a video game.
 * Gameplay mechanics should not be affected by any sort of outside assets.
 
-> Players in this game should experience a video game first. Any added benefits, including liquid assets, should be a bonus to the gaming experience.      
+> Players in this game should experience a video game first. Any added benefits, including liquid assets, should be a bonus to the gaming experience. Most multiplayer games outside of the blockchain world currently do not offer players the ability to trade or sell their skins that they have earned.       
   
 
 **Problem 2:** Lack of long-term building value of NFTs  
@@ -27,12 +27,12 @@ Currently, Cosmos
 * Players would have the ability to personalize their experience and characters in the game.
 * Player accounts hold value and players can increasingly add value through skin collection.
 
-> Supply, demand, time spent, etc... All of these factors add to NFT value in Bushi. Players who spend more time playing the game get increasingly rewarded to further increase engagement and retention rates.  
+> Supply, demand, time spent, etc... All of these factors add to NFT value in Bushi. Players who spend more time playing the game get increasingly rewarded to further increase engagement and retention rates. Extremely skilled players can show off their high rarity skins that were only earned by completing certain challenges. 
 
-**Problem 3:** Gaming in blockchain are unappealing/low quality and disconnected  
-**Solution:** Players in this game should experience a video game first.  
+**Problem 3:** Gaming in blockchain are unappealing/low quality and disconnected from the actual gaming community  
+**Solution:** Players in this game should experience a video game first before the added benefits of blockchain.  
 
-> Any added benefits, including liquid assets, should be a bonus to the gaming experience.  
+> The E-sports world over the past few years has continually increased viewership and partricipation through so many mediums: live streaming, tournaments, tiktoks, and youtube videos. The gaming community loves competition first and any hindrance of graphics and gameplay is very obvious to them and they are incredibly critical of it. Any added benefits, including liquid assets, must only be and should only be a bonus to the gaming experience.  
 
 
 
@@ -44,7 +44,7 @@ Currently, Cosmos
 3. Player can earn in-game currency and experience
 4. Players may freely use their in-game currency to level their accounts and character skins.
 
-**Gameplay Mechanics**
+**Gameplay Mechanics**  
 Each match, players will rely on their aim and precision to take out their enemies and reap the rewards of victory.
 
 Characters within the game are equipped with special weapons and skills to add onto their repertoire and defeat their enemies.
