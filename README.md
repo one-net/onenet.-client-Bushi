@@ -96,11 +96,27 @@ Tina
 ## Team LinkedIn Profiles
 
 ## Development Roadmap
-###M1:
+### Milestones - 
+These milestones may be completed previous/later than the estimated completion date. Updates will be made available to the public on a recurring basis.
 
-###M2:
+### M1:
+Estimated Completion: 2 Months
 
-###M3:
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+
+### M2:
+Estimated Completion: 2 Months
+
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+
+### M3:
+Estimated Completion: 2 Months
+
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+
 ## Additional Information
 
 
