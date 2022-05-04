@@ -102,6 +102,11 @@ These milestones may be completed previous/later than the estimated completion d
 ### M1:
 Estimated Completion: 2 Months
 
+**Website Launch**
+**NFT Art Design**
+**NFT Mint Smart Contracts**
+**Upgradeable NFTs**
+
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
@@ -109,14 +114,24 @@ Estimated Completion: 2 Months
 | 0c. | Documentation | We will provide documentation on our Github as well as bi-weekly updates on overall development of Cherry Wallet. |
 | 0d. | Testing | With the initial Milestone 1 delivery, users will be able to download the extension on Chrome or Firefox. |
 | 1. | Core Component | UX/UI Design Quality of Life Improvements (Multiple Language Settings, Saved Contacts, Light and Dark Mode, etc…), Governance and Staking Functionalities, Support for Polkadot Coin ($DOT),  Firefox Browser Extension Support |
+
 ### M2:
 Estimated Completion: 2 Months
+
+**Server/Infrastructure Changes**
+**In-Game Character Skin Upgrade Functionality**
+**Create Game Launcher**
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 
 ### M3:
 Estimated Completion: 2 Months
+
+**UI/UX Upgrade on Bushi**
+**Play Testing**
+**Bug Fixing/Balancing**
+**Launch Alpha!**
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
