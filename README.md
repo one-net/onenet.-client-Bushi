@@ -106,7 +106,7 @@ Estimated Completion: 2 Months
 **NFT Art Design**  
 **NFT Mint Smart Contracts**  
 **Upgradeable NFTs**  
-
+  
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
@@ -121,7 +121,7 @@ Estimated Completion: 2 Months
 **Server/Infrastructure Changes**  
 **In-Game Character Skin Upgrade Functionality**  
 **Create Game Launcher**  
-
+  
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 
@@ -132,7 +132,7 @@ Estimated Completion: 2 Months
 **Play Testing**  
 **Bug Fixing/Balancing**  
 **Launch Alpha!**  
-
+  
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 
