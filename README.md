@@ -9,15 +9,15 @@
 ## Project Description
 Bushi is a third-person competitive shooter video game that aims to break into the e-sports industry as well as to offer a large scale video game on the Secret Network and the Cosmos. This game aims to blur the lines of video games and blockchain to seamlessly create an enjoyable player experience for both cryto enthusiasts and regular video game advocates alike.
 
-Though this is the first video game being released by onenet., we aim to incorporate cross-game functionality with assets created with this first product such as tokens, NFTs, and other digital assets. The incorporation of cross-game functionalities between our assets will 
+Though this is the first video game being released by onenet., we aim to incorporate cross-game functionality with assets created such as tokens, NFTs, and other digital assets. The incorporation of cross-game functionalities between our assets will inevitably be a large focus of our goal.
 
 
 
 ## Problem / Solution
-Currently, Cosmos
 
-**Problem 1:** The gaming community has a strife with pay-to-win games and NFTs  
-**Solution:** No Pay-To-Win  
+
+**Problem 1:** Crypto gaming is relatively new within the crypto space and though there are many attempts to capture this rapidly growing market, few projects are able to offer a video game that has long term playability, high-quality art, and a truly immersive experience. The oversaturation of 2D/pixelated and repurposed video games fail to capture a supportive community and therefore inadvertently lessen the shelf life of the community as well as the video game.
+**Solution:** onenet. aims to offer an extremely high quality video game with a rather large project scope and vision. Though there are many 2D games and "pixel-
 * We strongly believe in not creating imbalances of strength within a video game.
 * Gameplay mechanics should not be affected by any sort of outside assets.
 
@@ -113,7 +113,7 @@ Tina
 ## Team LinkedIn Profiles
 
 ## Development Roadmap
-### Milestones  
+### Milestones - 
 These milestones may be completed previous/later than the estimated completion date. Updates will be made available to the public on a recurring basis.
 
 ### M1:
