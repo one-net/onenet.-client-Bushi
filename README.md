@@ -129,7 +129,7 @@ Estimated Completion: 2 Months
   
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
-| 1. | UI/UX Upgrade on Bushi* |  |
+| 1. | UI/UX Upgrade on Bushi |  |
 | 2. | Play Testing |  |
 | 3. | Bug Fixing/Balancing |  |
 | 4. | Launch Alpha! |  |
