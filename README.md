@@ -1,3 +1,9 @@
+# Bushi-Secret Grant Proposal
+
+* **Project Name:** Project Bushi
+* **Team Name:** onenet.
+* **Payment Address:** 
+
 ## Project Description
 Bushi is a third-person competitive shooter video game that aims to break into the e-sports industry as well as to offer a large scale video game on the Secret Network and the Cosmos. This game also aims to blur the lines of video games and blockchain to seamlessly create an enjoyable player experience for both cryto enthusiasts and regular video game advocates alike.
 
