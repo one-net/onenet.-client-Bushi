@@ -17,7 +17,8 @@ Currently, Cosmos
 * We strongly believe in not creating imbalances of strength within a video game.
 * Gameplay mechanics should not be affected by any sort of outside assets.
 
-> Players in this game should experience a video game first. Any added benefits, including liquid assets, should be a bonus to the gaming experience.  
+> Players in this game should experience a video game first. Any added benefits, including liquid assets, should be a bonus to the gaming experience.      
+  
 
 **Problem 2:** Lack of long-term building value of NFTs
 **Solution:** Upgradeable and customizable NFTs
