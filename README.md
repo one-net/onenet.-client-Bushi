@@ -4,10 +4,13 @@
 * **Team Name:** onenet.
 * **Payment Address:** 
 
+
+
 ## Project Description
 Bushi is a third-person competitive shooter video game that aims to break into the e-sports industry as well as to offer a large scale video game on the Secret Network and the Cosmos. This game aims to blur the lines of video games and blockchain to seamlessly create an enjoyable player experience for both cryto enthusiasts and regular video game advocates alike.
 
 Though this is the first video game being released by onenet., we aim to incorporate cross-game functionality with assets created with this first product such as tokens, NFTs, and other digital assets. The incorporation of cross-game functionalities between our assets will 
+
 
 
 ## Problem / Solution
@@ -20,10 +23,8 @@ Currently, Cosmos
 
 > Players in this game should experience a video game first. Any added benefits, including liquid assets, should be a bonus to the gaming experience. Most multiplayer games outside of the blockchain world currently do not offer players the ability to trade or sell their skins that they have earned.       
   
-
 **Problem 2:** Lack of long-term building value of NFTs  
 **Solution:** Upgradeable and customizable NFTs  
-
 * Players would have the ability to personalize their experience and characters in the game.
 * Player accounts hold value and players can increasingly add value through skin collection.
 
@@ -31,7 +32,6 @@ Currently, Cosmos
 
 **Problem 3:** Gaming in blockchain are unappealing/low quality and disconnected from the actual gaming community  
 **Solution:** Players in this game should experience a video game first before the added benefits of blockchain.
-
 * Gamers are in a completely different world from blockchain-- most do not understand its value and do not care for it. What they would experience must be as seamless and inviting as possible. 
 * The idea of pay-to-earn is an inherent bonus to players-- it should not be a selling point.
 
@@ -48,13 +48,12 @@ Currently, Cosmos
 4. Players may freely use their in-game currency to level their accounts and character skins.
 
 **Gameplay Mechanics**  
-Each match, players will rely on their aim and precision to take out their enemies and reap the rewards of victory.
+1. Each match, players will rely on their aim and precision to take out their enemies and reap the rewards of victory.
+2. Characters within the game are equipped with special weapons and skills to add onto their repertoire and defeat their enemies.  
+3. Players will work and communicate within a team to strategize a plan of attack or map out their best defense strategies.
+4. Players can choose between different game modes that have specific objectives like Team Deatchmatch, Search & Destroy, Domination, etc...
 
-Characters within the game are equipped with special weapons and skills to add onto their repertoire and defeat their enemies.
 
-Players will work and communicate within a team to strategize a plan of attack or map out their best defense strategies.
-
-Players can choose between different game modes that have specific objectives like Team Deatchmatch, Search & Destroy, Domination, etc...
 
 ## Go-to-Market Plan
 A surge of growth in blockchain gaming has led to interested game developers to take on the task of creating an appealing shooter.
@@ -89,6 +88,8 @@ Uniting the Cosmos
 Bringing Esports to Blockchain
 More traffic for the network
 
+
+
 ## Team members
 Leon
 John
@@ -97,6 +98,8 @@ Bangor
 Sorai
 Keone
 Tina
+
+
 
 ## Team Website
 
