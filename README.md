@@ -16,7 +16,7 @@ Though this is the first video game being released by onenet., we aim to incorpo
 ## Problem / Solution
 
 
-### Problem 1:  
+### Problem 1  
 Crypto gaming is relatively new within the crypto space and though there are many attempts to capture this rapidly growing market, few projects are able to offer a video game that has long term playability, high-quality art, and a truly immersive experience. The oversaturation of 2D/pixelated and repurposed video games fail to capture a supportive community and therefore inadvertently lessen the shelf life of the community as well as the video game.  
 
 **Solution:** onenet. aims to offer an extremely high quality video game with a rather large project scope and vision. Though there are many 2D games and "pixel-
@@ -25,14 +25,16 @@ Crypto gaming is relatively new within the crypto space and though there are man
 
 > Players in this game should experience a video game first. Any added benefits, including liquid assets, should be a bonus to the gaming experience. Most multiplayer games outside of the blockchain world currently do not offer players the ability to trade or sell their skins that they have earned.       
   
-**Problem 2:** Lack of long-term building value of NFTs  
+### Problem 2 
+Lack of long-term building value of NFTs  
 **Solution:** Upgradeable and customizable NFTs  
 * Players would have the ability to personalize their experience and characters in the game.
 * Player accounts hold value and players can increasingly add value through skin collection.
 
 > Supply, demand, time spent, etc... All of these factors add to NFT value in Bushi. Players who spend more time playing the game get increasingly rewarded to further increase engagement and retention rates. Extremely skilled players can show off their high rarity skins that were only earned by completing certain challenges. 
 
-**Problem 3:** Gaming in blockchain are unappealing/low quality and disconnected from the actual gaming community  
+### Problem 3: 
+Gaming in blockchain are unappealing/low quality and disconnected from the actual gaming community  
 **Solution:** Players in this game should experience a video game first before the added benefits of blockchain.
 * Gamers are in a completely different world from blockchain-- most do not understand its value and do not care for it. What they would experience must be as seamless and inviting as possible. 
 * The idea of pay-to-earn is an inherent bonus to players-- it should not be a selling point.
