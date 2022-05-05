@@ -142,9 +142,9 @@ Estimated Completion: 2 Months
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
 | 0b. | Description | Most of milestone two will push Bushi to get to Alpha and get it working with the created website as well as making sure that the NFT cosmetics get registered in-game |
-| 1. | Server/Infrastructure Changes |  |
-| 2. | In-Game Character Skin Upgrade Functionality |  |
-| 3. | Create Game Launcher |  |
+| 1. | Server/Infrastructure Changes | Currently, Bushi is using Steam's API to test multiplayer functionality. The developers will be migrating away from the API and will need to do testing on a separate server |
+| 2. | In-Game Character Skin Upgrade Functionality | In-game accounts should be able to track NFT cosmetics that were bought in the website. |
+| 3. | Create Game Launcher | A game launcher that links the website and the game will need to be created |
 
 ### M3:
 Estimated Completion: 2 Months
