@@ -139,7 +139,7 @@ Estimated Completion: 2 Months
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
-| 0b. | Description | Most of milestone two will push for the  |
+| 0b. | Description | Most of milestone two will push Bushi to get to Alpha and get it working with the created website as well as making sure that the NFT cosmetics get registered in-game |
 | 1. | Server/Infrastructure Changes |  |
 | 2. | In-Game Character Skin Upgrade Functionality |  |
 | 3. | Create Game Launcher |  |
@@ -151,7 +151,7 @@ Estimated Completion: 2 Months
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
-| 0b. | Description |  |
+| 0b. | Description | The last phase includes getting Bushi to be completely playable for alpha launch. This includes server stress testing, bug fixing, making it look as marketable as possible, as well as trying to get play testers to find any bugs |
 | 1. | UI/UX Upgrade on Bushi |  |
 | 2. | Play Testing |  |
 | 3. | Bug Fixing/Balancing |  |
