@@ -98,14 +98,13 @@ We strive to merge two different worlds and make a seamless experience blurring 
 
 
 ## Team members
-Leon
-John
-BBSloth
-Bangor
-Sorai
-Keone
-Tina
-
+Jacob Berroya  
+John Duriman  
+Brandon Belchar  
+Ryan Deleon  
+Filip   
+Nicholas Johnson  
+Tina  
 
 
 ## Team Website
