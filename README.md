@@ -154,9 +154,9 @@ Estimated Completion: 2 Months
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
 | 0b. | Description | The last phase includes getting Bushi to be completely playable for alpha launch. This includes server stress testing, bug fixing, making it look as marketable as possible, as well as trying to get play testers to find any bugs |
-| 1. | UI/UX Upgrade on Bushi |  |
-| 2. | Play Testing |  |
-| 3. | Bug Fixing/Balancing |  |
+| 1. | UI/UX Upgrade on Bushi | UI/UX on Bushi is currently incomplete. We will need to upgrade it to match the website as well as the game launcher |
+| 2. | Play Testing | We will need to stress test Bushi on the new server to test for any latency and respondance. |
+| 3. | Bug Fixing/Balancing | Enough play testing will be done to gather data and make sure the game is played as intended. |
 | 4. | Launch Alpha! |  |
 
 ## Additional Information  
