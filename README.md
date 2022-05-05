@@ -116,7 +116,7 @@ Tina
 ## Team LinkedIn Profiles
 
 ## Development Roadmap
-### Milestones - 
+### Milestones 
 These milestones may be completed previous/later than the estimated completion date. Updates will be made available to the public on a recurring basis.
 
 ### M1:
