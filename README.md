@@ -124,9 +124,9 @@ Estimated Completion: 2 Months
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
-| 0b. | Description | One Team will deliver a new and improved UX/UI design based on community feedback. These design changes will include quality of life changes as well as focused user experience changes such as language settings, saved contacts, and light and dark mode options. Support for Polkadot’s native currency, $DOT, will also be enabled for interoperability purposes based on Cherry Network's roadmap for Polkadot's Parachain support. Furthermore, Governance and Staking functionalities will be included for users to be able to participate in these actions through the wallet. Lastly, Cherry Wallet will introduce Firefox Browser Extension support for any user preferring to use this browser. |
+| 0b. | Description | The first milestone aims to setup Bushi to connect to the blockchain. Through the route of NFTs, we can allow early birds to be able to access the game by using buying-in |
 | 0c. | Documentation | We will provide documentation on our Github as well as bi-weekly updates on overall development of Cherry Wallet. |
-| 0d. | Testing | With the initial Milestone 1 delivery, users will be able to download the extension on Chrome or Firefox. |
+| 0d. | Testing | |
 | 1. | Website Launch | Build a website to allow access for the actual game, create accounts  for the game, create a wallet for the network, and a place to mint NFTs |
 | 2. | NFT Art Design | Fund artists to create high quality NFTs |
 | 3. | NFT Mint Smart Contracts | Most of the funding will allow us to hire a blockchain developer to help us create smart contracts to mint NFTs |
