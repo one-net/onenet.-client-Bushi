@@ -184,8 +184,9 @@ Tina -
 ## Development Roadmap
 ### Milestones 
 These milestones may be completed previous/later than the estimated completion date. Updates will be made available to the public on a recurring basis.
+The total grant request equals $150,000 USD to reach the launch of our alpha in 4 disbursements. Disbursement in $SCRT is also accepted. 
 
-$50,000 awarded at the time of grant approval.
+$50,000 awarded at the time of grant approval to bootstrap our project.
 
 ### M1:
 Estimated Completion: 0-5 weeks - $15,000
