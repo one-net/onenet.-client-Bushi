@@ -120,7 +120,7 @@ Tina
 These milestones may be completed previous/later than the estimated completion date. Updates will be made available to the public on a recurring basis.
 
 ### M1:
-Estimated Completion: 0-5 weeks
+Estimated Completion: 0-5 weeks - $50,000
   
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -134,7 +134,7 @@ Estimated Completion: 0-5 weeks
 
 
 ### M2:
-Estimated Completion: 6-14 weeks
+Estimated Completion: 6-11 weeks - $15,000
 
   
 | Number | Deliverable | Specification |
@@ -147,7 +147,20 @@ Estimated Completion: 6-14 weeks
 | 4. | Upgradeable Skin Contract | A game launcher that links the website and the game will need to be created |
 
 ### M3:
-Estimated Completion: 2 Months
+Estimated Completion: 12-19 weeks - $25,000
+
+  
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 0a. | License | Apache License, Version 2.0 |
+| 0b. | Description | Most of milestone two will push Bushi to get to Alpha and get it working with the created website as well as making sure that the NFT cosmetics get registered in-game |
+| 1. | Whitepaper | Currently, Bushi is using Steam's API to test multiplayer functionality. The developers will be migrating away from the API and will need to do testing on a separate server |
+| 2. | In-Game Character Skin Upgrade Functionality | In-game accounts should be able to track NFT cosmetics that were bought in the website. |
+| 3. | Create Alpha Game Launcher | A game launcher that links the website and the game will need to be created |
+| 4. | Upgradeable Skin Contract | A game launcher that links the website and the game will need to be created |
+
+### M4:
+Estimated Completion: 20-24 weeks - $30,000
 
   
 | Number | Deliverable | Specification |
