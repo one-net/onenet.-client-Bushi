@@ -144,8 +144,8 @@ Estimated Completion: 6-11 weeks - $25,000
 | 0a. | License | Apache License, Version 2.0 |
 | 0b. | Description | Most of milestone two will push Bushi to get to Alpha and get it working with the created website as well as making sure that the NFT cosmetics get registered in-game |
 | 1. | Whitepaper |  |
-| 2. | In-Game Character Skin Upgrade Functionality | In-game accounts should be able to track NFT cosmetics that were bought in the website. |
-| 4. | Upgradeable Skin Contract |  |
+| 2. | In-Game Character Skin Upgrade Functionality | In-game accounts should be able to query NFT cosmetics that were bought from the website. |
+| 4. | Upgradeable Skin Contract | Here is where players have the potential for play-to-earn. Once a skin is unlocked in-game, they should be able to upgrade their initial NFT skin and would be tied updated through another smart contract |
 
 ### M3:
 Estimated Completion: 12-19 weeks - $30,000
