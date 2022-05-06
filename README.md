@@ -27,6 +27,7 @@ A truly high-quality video game with a focus on competitive gaming to entice lon
 
 onenet. aims to offer an extremely high quality video game with a rather large project scope and vision. Our team is composed of industry professionals with experience in well-known AAA companies such as Blizzard and EA as well as smaller, yet professional, indie game studios. Additionally, we look to offer a 3D competitive experience that will break into the competitive gaming industry as a whole.
 
+
 What sets Bushi apart:
 * 3D world and character models
 * High-Quality animations, particles, and effects
