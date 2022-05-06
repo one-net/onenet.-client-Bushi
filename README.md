@@ -130,8 +130,8 @@ Estimated Completion: 2 Months
 | 0d. | Testing | |
 | 1. | Website Launch | Build a website to allow access for the actual game, create accounts  for the game, create a wallet for the network, and a place to mint NFTs |
 | 2. | NFT Art Design | Fund artists to create high quality NFTs |
-| 3. | NFT Mint Smart Contracts | Most of the funding will allow us to hire a blockchain developer to help us create smart contracts to mint NFTs |
-| 4. | Upgradeable NFTs | Furthermore, we will need smart contracts to allow cosmetics and newer skins to be added to the initial mint of the NFT |
+| 3. | sNFT Mint Smart Contracts | Most of the funding will allow us to hire a blockchain developer to help us create smart contracts to mint NFTs. Furthermore, we will need smart contracts to allow cosmetics and newer skins to be added to the initial mint of the NFT |
+
 
 ### M2:
 Estimated Completion: 2 Months
