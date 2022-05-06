@@ -130,7 +130,7 @@ Estimated Completion: 0-5 weeks - $15,000
 | 0b. | Description | The first milestone aims to setup Bushi to connect to the blockchain. Through the route of NFTs, we can allow early birds to be able to access the game by using buying-in |
 | 0c. | Documentation | We will provide documentation on our Github as well as bi-weekly updates on overall development of Cherry Wallet. |
 | 0d. | Testing | |
-| 1. | Website Launch | Build a website to allow access for the actual game, create accounts  for the game, create a wallet for the network, and a place to mint NFTs |
+| 1. | Website Launch | Build a website to allow access for the actual game, create accounts for the game, create a wallet for the network, and a place to mint NFTs |
 | 2. | Keplr Integration |  |
 | 3. | sNFT Mint Contracts | Most of the funding will allow us to hire a blockchain developer to help us create smart contracts to mint NFTs. Furthermore, we will need smart contracts to allow cosmetics and newer skins to be added to the initial mint of the NFT |
 
@@ -145,7 +145,6 @@ Estimated Completion: 6-11 weeks - $25,000
 | 0b. | Description | Most of milestone two will push Bushi to get to Alpha and get it working with the created website as well as making sure that the NFT cosmetics get registered in-game |
 | 1. | Whitepaper | Currently, Bushi is using Steam's API to test multiplayer functionality. The developers will be migrating away from the API and will need to do testing on a separate server |
 | 2. | In-Game Character Skin Upgrade Functionality | In-game accounts should be able to track NFT cosmetics that were bought in the website. |
-| 3. | Create Alpha Game Launcher | A game launcher that links the website and the game will need to be created |
 | 4. | Upgradeable Skin Contract | A game launcher that links the website and the game will need to be created |
 
 ### M3:
@@ -156,10 +155,10 @@ Estimated Completion: 12-19 weeks - $30,000
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
 | 0b. | Description | Most of milestone two will push Bushi to get to Alpha and get it working with the created website as well as making sure that the NFT cosmetics get registered in-game |
-| 1. | Whitepaper | Currently, Bushi is using Steam's API to test multiplayer functionality. The developers will be migrating away from the API and will need to do testing on a separate server |
-| 2. | In-Game Character Skin Upgrade Functionality | In-game accounts should be able to track NFT cosmetics that were bought in the website. |
-| 3. | Create Alpha Game Launcher | A game launcher that links the website and the game will need to be created |
-| 4. | Upgradeable Skin Contract | A game launcher that links the website and the game will need to be created |
+| 1. | Create Alpha Game Launcher | Currently, Bushi is using Steam's API to test multiplayer functionality. The developers will be migrating away from the API and will need to do testing on a separate server |
+| 2. | UI/UX Update | In-game accounts should be able to track NFT cosmetics that were bought in the website. |
+| 3. | Server Update/Infrastructure Overhaul | A game launcher that links the website and the game will need to be created |
+
 
 ### M4:
 Estimated Completion: 20-24 weeks - $30,000
@@ -169,7 +168,7 @@ Estimated Completion: 20-24 weeks - $30,000
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
 | 0b. | Description | The last phase includes getting Bushi to be completely playable for alpha launch. This includes server stress testing, bug fixing, making it look as marketable as possible, as well as trying to get play testers to find any bugs |
-| 1. | UI/UX Upgrade on Bushi | UI/UX on Bushi is currently incomplete. We will need to upgrade it to match the website as well as the game launcher |
+| 1. | Quality Assurance Testing | UI/UX on Bushi is currently incomplete. We will need to upgrade it to match the website as well as the game launcher |
 | 2. | Play Testing | We will need to stress test Bushi on the new server to test for any latency and respondance. |
 | 3. | Bug Fixing/Balancing | Enough play testing will be done to gather data and make sure the game is played as intended. |
 | 4. | Launch Alpha! |  |
