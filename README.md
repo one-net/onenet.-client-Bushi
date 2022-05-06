@@ -7,9 +7,9 @@
 
 
 ## Project Description
-Bushi is a third-person competitive shooter video game that aims to break into the e-sports industry as well as to offer a large scale video game on the Secret Network and the Cosmos. This game aims to blur the lines of video games and blockchain to seamlessly create an enjoyable player experience for both cryto enthusiasts and regular video game advocates alike.
+Bushi is a third-person competitive shooter video game that aims to break into the esports industry as well as to offer a large scale video game on the Secret Network and the Cosmos. This game aims to blur the lines of video games and blockchain to seamlessly create an enjoyable player experience for both crypto enthusiasts and everyday video game advocates alike.
 
-Though this is the first video game being released by onenet., we aim to incorporate cross-game functionality with assets created such as tokens, NFTs, and other digital assets. The incorporation of cross-game functionalities between our assets will inevitably be a large focus of our goal.
+Though this is the first video game being released by onenet., we aim to incorporate cross-game functionality with assets created such as tokens, NFTs, and other digital assets. The incorporation of cross-game functionalities between our assets will inevitably be a large focus of our goal in the future.
 
 
 
@@ -17,45 +17,84 @@ Though this is the first video game being released by onenet., we aim to incorpo
 
 
 ### Problem 1  
-Crypto gaming is relatively new within the crypto space and though there are many attempts to capture this rapidly growing market, few projects are able to offer a video game that has long term playability, high-quality art, and a truly immersive experience. The oversaturation of 2D/pixelated and repurposed video games fail to capture a supportive community and therefore inadvertently lessen the shelf life of the community as well as the video game.  
+Oversaturation of small scale and repurposed video games -
+
+Crypto gaming is relatively new within the crypto space and though there are many attempts to capture this rapidly growing market, few projects are able to offer a video game that has long term playability, high-quality art, and a truly immersive experience. The oversaturation of small scale and repurposed video games fail to capture long-term players in blockchain and therefore inadvertently lessen the shelf life of the community as well as the game.
+
 
 **Solution:** onenet. aims to offer an extremely high quality video game with a rather large project scope and vision. Though there are many 2D games and "pixel-
-* We strongly believe in not creating imbalances of strength within a video game.
-* Gameplay mechanics should not be affected by any sort of outside assets.
+A truly high-quality video game with a focus on competitive gaming to entice long-term playability -
 
-> Players in this game should experience a video game first. Any added benefits, including liquid assets, should be a bonus to the gaming experience. Most multiplayer games outside of the blockchain world currently do not offer players the ability to trade or sell their skins that they have earned.       
+onenet. aims to offer an extremely high quality video game with a rather large project scope and vision. Our team is composed of industry professionals with experience in well-known AAA companies such as Blizzard and EA as well as smaller, yet professional, indie game studios. Additionally, we look to offer a 3D competitive experience that will break into the competitive gaming industry as a whole.
+
+What sets Bushi apart:
+* 3D world and character models
+* High-Quality animations, particles, and effects
+* Textured, painted, and shaded environments (4 maps as of writing this)
+* Progressive/Immersive game design
+
+
+> We truly believe that players in Bushi should experience an immersive video game first and foremost. Any added benefits, including liquid assets, should be a bonus to the gaming experience in order to onboard long lasting users not only to the game, but the network/community as a whole.     
   
 ### Problem 2 
-Lack of long-term building value of NFTs  
-**Solution:** Upgradeable and customizable NFTs  
-* Players would have the ability to personalize their experience and characters in the game.
-* Player accounts hold value and players can increasingly add value through skin collection.
+Limited utility and usage for video game assets both in crypto gaming and outside -
+
+Many games outside of blockchain limit the trading of assets purchased for the game. This means that the time, money, and effort put into a video game are lost without anything tangible being given back.
+
+In crypto gaming, this is tackled by allowing tokens and NFTs to be traded for other assets, including USDT which can be converted to USD. Though this is something that we truly believe in and support, the value of the player’s time, money, and effort should be rewarded even further.
+
+**Solution:** 
+Cross-game usability/functionality for digital assets created for Bushi-
+
+onenet.’s vision is to build assets that are usable and valued in other video games. Bushi will be the first video game that will be released from onenet. and will allow for genesis mints of tokens and NFTs that will be usable in future games built by onenet./partners.
 
 > Supply, demand, time spent, etc... All of these factors add to NFT value in Bushi. Players who spend more time playing the game get increasingly rewarded to further increase engagement and retention rates. Extremely skilled players can show off their high rarity skins that were only earned by completing certain challenges. 
 
+
 ### Problem 3: 
-Gaming in blockchain are unappealing/low quality and disconnected from the actual gaming community  
-**Solution:** Players in this game should experience a video game first before the added benefits of blockchain.
-* Gamers are in a completely different world from blockchain-- most do not understand its value and do not care for it. What they would experience must be as seamless and inviting as possible. 
-* The idea of pay-to-earn is an inherent bonus to players-- it should not be a selling point.
+Clear separation between the traditional gaming community and the crypto gaming community -
 
-> The E-sports world over the past few years has continually increased viewership and partricipation through so many mediums: live streaming, tournaments, tiktoks, and youtube videos. The gaming community loves competition first and any hindrance of graphics and gameplay is very obvious to them and they are incredibly critical of it. Any added benefits, including liquid assets, must only be and should only be a bonus to the gaming experience.  
+As it stands, there is a negative stigma with video games being built in the crypto world from non-crypto enthusiasts. Many games built in crypto create clear and divisive disparities in strength/performance within the game based on “levels” of their NFT. In a sense, this is a pay-to-win model which traditional game enthusiasts have disliked throughout history.
 
+**Solution:**
+A fair gaming model with no pay-to-win -
+
+In order to break into the esports scene as well as onboard traditional gamers into Secret Network/Cosmos, we highly value that all NFTs and digital assets within the game should NOT reflect in a person’s performance or strength. Essentially, this blurs the line between a traditional video game and a crypto video game by simply not allowing strength/performance disparities based on financial investments.
+
+> The E-sports world over the past few years has continually increased viewership and participation through a variety of mediums: live streaming, tournaments, tiktoks, and youtube videos. By breaking into this scene, we can expose a larger audience of gamers to Secret Network and the potential of blockchain video games as a whole.
 
 
 ## Detailed Product Description
 
-**Player Experience**
-1. Players can enter PVP matches
-2. Players will build their skills to defeat their adversaries in differentiating game modes.
-3. Player can earn in-game currency and experience
-4. Players may freely use their in-game currency to level their accounts and character skins.
+**Already Completed**
+1. Character Model (1)
+2. Level Design (4 maps)
+3. 2 Game Modes (Team Deathmatch, King of the Hill)
+4. Early In-Game Mechanics
+5. Base Animations
+6. Early UI/UX
+7. Matchmaking
+8. Party Functionality
+9. Custom Server Functionality
+10. Customizable Game Mechanics Functionality
+11. Character Customization Functionality
+12. Early Game Balancing
+13. Game Design
+14. Branding
 
-**Gameplay Mechanics**  
-1. Each match, players will rely on their aim and precision to take out their enemies and reap the rewards of victory.
-2. Characters within the game are equipped with special weapons and skills to add onto their repertoire and defeat their enemies.  
-3. Players will work and communicate within a team to strategize a plan of attack or map out their best defense strategies.
-4. Players can choose between different game modes that have specific objectives like Team Deatchmatch, Search & Destroy, Domination, etc...
+**Grant Deliverables**
+1. Website
+2. Keplr Integration
+3. sNFT Mint Contract (Holds Private Access to Alpha, also has “upgrade tech”) 
+4. Whitepaper
+5. In-game skin upgrade functionality
+6. Upgrade Skin Contract
+7. Alpha Game Launcher - 2 months
+8. UI/UX Update
+9. Server Update/Infrastructure Overhaul
+10. Quality Assurance Testing - ongoing
+11. Sound Design Changes
+12. Alpha Launch!
 
 
 
