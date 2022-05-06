@@ -120,7 +120,7 @@ Tina
 These milestones may be completed previous/later than the estimated completion date. Updates will be made available to the public on a recurring basis.
 
 ### M1:
-Estimated Completion: 5 weeks
+Estimated Completion: 0-5 weeks
   
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -130,20 +130,21 @@ Estimated Completion: 5 weeks
 | 0d. | Testing | |
 | 1. | Website Launch | Build a website to allow access for the actual game, create accounts  for the game, create a wallet for the network, and a place to mint NFTs |
 | 2. | Keplr Integration |  |
-| 3. | sNFT Mint Smart Contracts | Most of the funding will allow us to hire a blockchain developer to help us create smart contracts to mint NFTs. Furthermore, we will need smart contracts to allow cosmetics and newer skins to be added to the initial mint of the NFT |
+| 3. | sNFT Mint Contracts | Most of the funding will allow us to hire a blockchain developer to help us create smart contracts to mint NFTs. Furthermore, we will need smart contracts to allow cosmetics and newer skins to be added to the initial mint of the NFT |
 
 
 ### M2:
-Estimated Completion: 8 weeks
+Estimated Completion: 6-14 weeks
 
   
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
 | 0b. | Description | Most of milestone two will push Bushi to get to Alpha and get it working with the created website as well as making sure that the NFT cosmetics get registered in-game |
-| 1. | Server/Infrastructure Changes | Currently, Bushi is using Steam's API to test multiplayer functionality. The developers will be migrating away from the API and will need to do testing on a separate server |
+| 1. | Whitepaper | Currently, Bushi is using Steam's API to test multiplayer functionality. The developers will be migrating away from the API and will need to do testing on a separate server |
 | 2. | In-Game Character Skin Upgrade Functionality | In-game accounts should be able to track NFT cosmetics that were bought in the website. |
-| 3. | Create Game Launcher | A game launcher that links the website and the game will need to be created |
+| 3. | Create Alpha Game Launcher | A game launcher that links the website and the game will need to be created |
+| 4. | Upgradeable Skin Contract | A game launcher that links the website and the game will need to be created |
 
 ### M3:
 Estimated Completion: 2 Months
