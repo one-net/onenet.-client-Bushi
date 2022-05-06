@@ -134,7 +134,7 @@ Estimated Completion: 5 weeks
 
 
 ### M2:
-Estimated Completion: 2 Months
+Estimated Completion: 8 weeks
 
   
 | Number | Deliverable | Specification |
