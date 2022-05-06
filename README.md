@@ -89,13 +89,12 @@ In order to break into the esports scene as well as onboard traditional gamers i
 3. sNFT Mint Contract (Holds Private Access to Alpha, also has “upgrade tech”) 
 4. Whitepaper
 5. In-game skin upgrade functionality
-6. Upgrade Skin Contract
-7. Alpha Game Launcher - 2 months
-8. UI/UX Update
-9. Server Update/Infrastructure Overhaul
-10. Quality Assurance Testing - ongoing
-11. Sound Design Changes
-12. Alpha Launch!
+6. Alpha Game Launcher - 2 months
+7. UI/UX Update
+8. Server Update/Infrastructure Overhaul
+9. Quality Assurance Testing - ongoing
+10. Sound Design Changes
+11. Alpha Launch!
 
 
 
