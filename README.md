@@ -134,21 +134,25 @@ We strive to merge two different worlds and make a seamless experience blurring 
 
 
 
-
-
 ## Team members
-Leon Berroya - CEO
-John Duriman - CTO
-Brandon Belchar - Head of Development
-Filip Predrodavic - Creative Director
-Ryan Deleon - Lead Game Designer
-Nicholas Johnson - Senior Programmer
-Aleksander Aleksandrov - Front End Developer
-Tina - Industry Advisor 
+* Leon Berroya - CEO
+* John Duriman - CTO
+* Brandon Belchar - Head of Development
+* Filip Predrodavic - Creative Director
+* Ryan Deleon - Lead Game Designer
+* Nicholas Johnson - Senior Programmer
+* Aleksander Aleksandrov - Front End Developer
+* Tina - Industry Advisor 
 
+## Contributors Separate from Grant
+Secret LLC - Ian (Co-Founder) & Jacob (Co-Founder)
+* secretnodes Validator Node
+* Secretnodes.org
+* Secret Wallet
+* SecretDAO
 
 ## Team Website
-
+* TBD
 ## Team’s Experience
 Leon - 
 * Leon has 8+ years of design experience focusing heavily in the development of 3 major products on the Secret Network including secretnodes.org, Secret Wallet, and SecretDAO. Through working with the Secret Network, predominantly as Creative Director at Secret LLC, he has been able to integrate as a contributing leader in the Secret Network. Through his past experience working in the political and legal field, he also has expertise in marketing and legal compliance.
@@ -180,7 +184,7 @@ Tina -
 ### Milestones 
 These milestones may be completed previous/later than the estimated completion date. Updates will be made available to the public on a recurring basis.
 
-$50,000 
+$50,000 awarded at the time of grant approval.
 
 ### M1:
 Estimated Completion: 0-5 weeks - $15,000
@@ -235,9 +239,10 @@ Estimated Completion: 20-24 weeks - $30,000
 | 4. | Launch Alpha! |  |
 
 ## Additional Information  
-The resulting number of combinations is virtually limitless. The team is even planning a large-scale Rarity Contest with a $100,000 prize fund to offer an extra incentive to players who invest in designing rarer, better-looking sharks. After that, the collection will be fixed, and the upgrading process will stop.
+Though Bushi will be the inevitable catalyst of future crypto gaming ventures by onenet., it is imperative to note that we plan to make cross-game functionality a focal point within our journey. By offering this cross-game functionality, we look to offer compelling, competitive, and highly addictive video games to the masses. By becoming one of the most dedicated video game development and blockchain specific studios in the Cosmos, we look to onboard users throughout to push Secret Network to being one of the most valued crypto projects in the space.
 
-On the technical level, each add-on trait is a separate NFT. When it is added to a shark, the smart contract burns the original asset and creates a new one - with the new trait included and with updated metadata. Since SharkRace runs on Binance Smart Chain (a relatively cheap and scalable blockchain), these transactions don't incur a lot of additional costs for the player. 
+onenet. also looks to break heavily into the e-sports world by offering prizes to tournament winners and dedicated players. Not only will this carve a future of long lasting video games, but it will cultivate a community that has been missing in the crypto gaming world for some time. Though we are not the first to tackle this dilemma, we will certainly look to lead the way as we progress.
+
 
 
 
