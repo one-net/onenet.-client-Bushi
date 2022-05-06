@@ -146,6 +146,7 @@ We strive to merge two different worlds and make a seamless experience blurring 
 
 ## Contributors Separate from Grant
 Secret LLC - Ian (Co-Founder) & Jacob (Co-Founder)
+Builders of -
 * secretnodes Validator Node
 * Secretnodes.org
 * Secret Wallet
