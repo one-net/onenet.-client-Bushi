@@ -137,7 +137,7 @@ We strive to merge two different worlds and make a seamless experience blurring 
 ## Team members
 * Leon Berroya - CEO
 * John Duriman - CTO
-* Brandon Belchar - Head of Development
+* Brandon Belchar - Head of Game Development
 * Filip Predrodavic - Creative Director
 * Ryan Deleon - Lead Game Designer
 * Nicholas Johnson - Senior Programmer
