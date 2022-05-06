@@ -11,7 +11,7 @@ Bushi is a third-person competitive shooter video game that aims to break into t
 
 Though this is the first video game being released by onenet., we aim to incorporate cross-game functionality with assets created such as tokens, NFTs, and other digital assets. The incorporation of cross-game functionalities between our assets will inevitably be a large focus of our goal in the future.
 
-
+**Early Alpha game footage available upon request.
 
 ## Problem / Solution
 
