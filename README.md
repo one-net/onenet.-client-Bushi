@@ -130,9 +130,9 @@ Estimated Completion: 0-5 weeks - $15,000
 | 0b. | Description | The first milestone aims to setup Bushi to connect to the blockchain. Through the route of NFTs, we can allow early birds to be able to access the game by using buying-in |
 | 0c. | Documentation | We will provide documentation on our Github as well as bi-weekly updates on overall development of Cherry Wallet. |
 | 0d. | Testing | |
-| 1. | Website Launch | Build a website to allow access for the actual game, create accounts for the game, create a wallet for the network, and a place to mint NFTs |
-| 2. | Keplr Integration |  |
-| 3. | sNFT Mint Contracts | Most of the funding will allow us to hire a blockchain developer to help us create smart contracts to mint NFTs. Furthermore, we will need smart contracts to allow cosmetics and newer skins to be added to the initial mint of the NFT |
+| 1. | Website Launch | Build a website to be a central point of everything. It will allow users access for the actual game, create accounts for the game, create a wallet for the network, and a place to mint their NFTs |
+| 2. | Keplr Integration | For some of the back-end development of the website, we will be using Keplr as an implementation for blockchain account management and wallet integrations  |
+| 3. | sNFT Mint Contracts | Majority of the funding will allow us to commission a blockchain developer to help us create smart contracts to mint NFTs. Furthermore, we will need smart contracts to allow cosmetics and newer skins to be added to the initial mint of the NFT |
 
 
 ### M2:
