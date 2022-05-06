@@ -119,8 +119,10 @@ Tina
 ### Milestones 
 These milestones may be completed previous/later than the estimated completion date. Updates will be made available to the public on a recurring basis.
 
+$50,000 
+
 ### M1:
-Estimated Completion: 0-5 weeks - $50,000
+Estimated Completion: 0-5 weeks - $15,000
   
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -134,7 +136,7 @@ Estimated Completion: 0-5 weeks - $50,000
 
 
 ### M2:
-Estimated Completion: 6-11 weeks - $15,000
+Estimated Completion: 6-11 weeks - $25,000
 
   
 | Number | Deliverable | Specification |
@@ -147,7 +149,7 @@ Estimated Completion: 6-11 weeks - $15,000
 | 4. | Upgradeable Skin Contract | A game launcher that links the website and the game will need to be created |
 
 ### M3:
-Estimated Completion: 12-19 weeks - $25,000
+Estimated Completion: 12-19 weeks - $30,000
 
   
 | Number | Deliverable | Specification |
