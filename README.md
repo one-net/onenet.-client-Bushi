@@ -120,7 +120,7 @@ Tina
 These milestones may be completed previous/later than the estimated completion date. Updates will be made available to the public on a recurring basis.
 
 ### M1:
-Estimated Completion: 2 Months
+Estimated Completion: 5 weeks
   
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
@@ -129,7 +129,7 @@ Estimated Completion: 2 Months
 | 0c. | Documentation | We will provide documentation on our Github as well as bi-weekly updates on overall development of Cherry Wallet. |
 | 0d. | Testing | |
 | 1. | Website Launch | Build a website to allow access for the actual game, create accounts  for the game, create a wallet for the network, and a place to mint NFTs |
-| 2. | Keplr Integration | Fund artists to create high quality NFTs |
+| 2. | Keplr Integration |  |
 | 3. | sNFT Mint Smart Contracts | Most of the funding will allow us to hire a blockchain developer to help us create smart contracts to mint NFTs. Furthermore, we will need smart contracts to allow cosmetics and newer skins to be added to the initial mint of the NFT |
 
 
