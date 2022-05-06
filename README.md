@@ -17,13 +17,13 @@ Though this is the first video game being released by onenet., we aim to incorpo
 
 
 ### Problem 1  
-**Oversaturation of small scale and repurposed video games -**  
+*Oversaturation of small scale and repurposed video games -*  
 
 Crypto gaming is relatively new within the crypto space and though there are many attempts to capture this rapidly growing market, few projects are able to offer a video game that has long term playability, high-quality art, and a truly immersive experience. The oversaturation of small scale and repurposed video games fail to capture long-term players in blockchain and therefore inadvertently lessen the shelf life of the community as well as the game.
 
 
 ### Solution 1
-**A truly high-quality video game with a focus on competitive gaming to entice long-term playability -**
+*A truly high-quality video game with a focus on competitive gaming to entice long-term playability -*
 
 onenet. aims to offer an extremely high quality video game with a rather large project scope and vision. Our team is composed of industry professionals with experience in well-known AAA companies such as Blizzard and EA as well as smaller, yet professional, indie game studios. Additionally, we look to offer a 3D competitive experience that will break into the competitive gaming industry as a whole.
 
@@ -38,14 +38,14 @@ What sets Bushi apart:
 > We truly believe that players in Bushi should experience an immersive video game first and foremost. Any added benefits, including liquid assets, should be a bonus to the gaming experience in order to onboard long lasting users not only to the game, but the network/community as a whole.     
   
 ### Problem 2 
-**Limited utility and usage for video game assets both in crypto gaming and outside -**
+*Limited utility and usage for video game assets both in crypto gaming and outside -*
 
 Many games outside of blockchain limit the trading of assets purchased for the game. This means that the time, money, and effort put into a video game are lost without anything tangible being given back.
 
 In crypto gaming, this is tackled by allowing tokens and NFTs to be traded for other assets, including USDT which can be converted to USD. Though this is something that we truly believe in and support, the value of the player’s time, money, and effort should be rewarded even further.
 
 ### Solution 2
-**Cross-game usability/functionality for digital assets created for Bushi-**
+*Cross-game usability/functionality for digital assets created for Bushi-*
 
 onenet.’s vision is to build assets that are usable and valued in other video games. Bushi will be the first video game that will be released from onenet. and will allow for genesis mints of tokens and NFTs that will be usable in future games built by onenet./partners.
 
@@ -53,12 +53,12 @@ onenet.’s vision is to build assets that are usable and valued in other video 
 
 
 ### Problem 3: 
-**Clear separation between the traditional gaming community and the crypto gaming community -**
+*Clear separation between the traditional gaming community and the crypto gaming community -*
 
 As it stands, there is a negative stigma with video games being built in the crypto world from non-crypto enthusiasts. Many games built in crypto create clear and divisive disparities in strength/performance within the game based on “levels” of their NFT. In a sense, this is a pay-to-win model which traditional game enthusiasts have disliked throughout history.
 
 ### Solution 3
-**A fair gaming model with no pay-to-win -**
+*A fair gaming model with no pay-to-win -*
 
 In order to break into the esports scene as well as onboard traditional gamers into Secret Network/Cosmos, we highly value that all NFTs and digital assets within the game should NOT reflect in a person’s performance or strength. Essentially, this blurs the line between a traditional video game and a crypto video game by simply not allowing strength/performance disparities based on financial investments.
 
