@@ -137,18 +137,40 @@ We strive to merge two different worlds and make a seamless experience blurring 
 
 
 ## Team members
-Jacob Berroya  
-John Duriman  
-Brandon Belchar  
-Ryan Deleon  
-Filip   
-Nicholas Johnson  
-Tina  
+Leon Berroya - CEO
+John Duriman - CTO
+Brandon Belchar - Head of Development
+Filip Predrodavic - Creative Director
+Ryan Deleon - Lead Game Designer
+Nicholas Johnson - Senior Programmer
+Aleksander Aleksandrov - Front End Developer
+Tina - Industry Advisor 
 
 
 ## Team Website
 
 ## Team’s Experience
+Leon - 
+* Leon has 8+ years of design experience focusing heavily in the development of 3 major products on the Secret Network including secretnodes.org, Secret Wallet, and SecretDAO. Through working with the Secret Network, predominantly as Creative Director at Secret LLC, he has been able to integrate as a contributing leader in the Secret Network. Through his past experience working in the political and legal field, he also has expertise in marketing and legal compliance.
+
+John -
+* John has 5+ years working in traditional video game development environments. After receiving his bachelor's degree in Computer Science, he then spent 4+ years working in information technology. John is also highly proficient within finances and has expertise in budgeting, risk management, compliance, and other accounting principals.
+
+Brandon -
+* Brandon has 5+ years of professional Software Engineering experience ranging from Game Development to Machine Learning. As a predominantly back-end focused developer, he is proficient in numerous programming languages and has taken on the responsibility of programming the infrastructure and server management of Bushi.
+
+Filip - 
+* Filip is a specialist in technical art design/project management and has 5+ years of professional experience working in traditional and blockchain based game development industries. Notably, he has worked in studios such as The Endless Collective, Ron Revog Inc., Kaon Interactive, and more.
+Ryan has more than 5 years of game and level design experience working heavily in the video game industry including Ruby Seven Studios and Afrowhale.
+
+Nick - 
+* Nick specializes in video game programming and focuses on languages used in Unity and Unreal Engine and has over 3+ years of working in the traditional game development industry. Notably, he has programmed the majority of the game mechanics seen in Bushi and has released numerous games as an independent developer.
+
+Alek - 
+* Alek has 9+ years of professional front-end web development experience and is proficient in back end development as well. In his career, he has worked within multiple different industry disciplines and most notably has worked in compliance of legal software and front end development.
+
+Tina - 
+* Tina has 7+ years of industry experience working in AAA game development companies such as Blizzard and EA. She is a core contributing artist/advisor (Bushi Alpha version 3.1.0) and has heavily worked on Bushi in all aspects.
 
 ## Team Code Repos
 
