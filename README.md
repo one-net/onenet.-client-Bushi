@@ -1,4 +1,4 @@
-# onenet./Bushi-Secret Grant Proposal
+# onenet.client/Bushi-Secret Grant Proposal
 
 * **Project Name:** Project onenet x Bushi
 * **Team Name:** onenet.
