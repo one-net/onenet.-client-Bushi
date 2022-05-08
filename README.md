@@ -1,15 +1,21 @@
-# Bushi-Secret Grant Proposal
+# onenet./Bushi-Secret Grant Proposal
 
-* **Project Name:** Project Bushi
+* **Project Name:** Project onenet x Bushi
 * **Team Name:** onenet.
 * **Payment Address:** 
 
 
 
 ## Project Description
-Bushi is a third-person competitive shooter video game that aims to break into the esports industry as well as to offer a large scale video game on the Secret Network and the Cosmos. This game aims to blur the lines of video games and blockchain to seamlessly create an enjoyable player experience for both crypto enthusiasts and everyday video game advocates alike.
+onenet.-
+* onenet. is a multi-purpose video game launch client that will host multiple cross-functionality video games. This launch client will work in tandem with our tokens, NFTs, and other digital assets to be able to be used in all video games hosted on this client.
 
-Though this is the first video game being released by onenet., we aim to incorporate cross-game functionality with assets created such as tokens, NFTs, and other digital assets. The incorporation of cross-game functionalities between our assets will inevitably be a large focus of our goal in the future.
+Imagine that Jessy purchased $100 of token in onenet.'s client. She purchases this token to use on Game 1, a video game hosted on onenet. Though she purchased these coins originally to use in Game 1, her interest has turned to wanting to use these tokens on assets in Game 2. Because both games are hosted on onenet., she is able to use these newly purchased tokens and use them in all games hosted on the client. This is interchangeable with NFT(s).
+
+Bushi -
+* Bushi is a third-person competitive shooter video game that aims to break into the esports industry as well as to offer a large scale video game on the Secret Network and the Cosmos. This game aims to blur the lines of video games and blockchain to seamlessly create an enjoyable player experience for both crypto enthusiasts and everyday video game advocates alike.
+
+This is the first video game being released and hosted by onenet. and onenet.'s client. We aim to incorporate cross-game functionality with assets created in Bushi such as tokens, NFTs, and other digital assets. The incorporation of cross-game functionalities between our assets will inevitably be a large focus of our goal in the future.
 
 **Early Alpha game footage available upon request.
 
