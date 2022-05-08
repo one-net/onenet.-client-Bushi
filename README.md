@@ -188,11 +188,11 @@ Estimated Completion: 0-5 weeks - $15,000
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
-| 0b. | Description | The first milestone aims to setup Bushi to connect to the blockchain. Through the route of NFTs, we can allow early birds to be able to access the game by using buying-in |
+| 0b. | Description | The first milestone aims to setup Bushi to connect to the blockchain. Through the route of NFTs, we can allow early birds to be able to access the game by using SCRT to secure their spot to Bushi Alpha and more. |
 | 0c. | Documentation | We will provide documentation on our Github as well as bi-weekly updates on overall development of Cherry Wallet. |
 | 0d. | Testing | |
-| 1. | Website Launch | Build a website to be a central point of everything. It will allow users access for the actual game, create accounts for the game, create a wallet for the network, and a place to mint their NFTs |
-| 2. | Keplr Integration | For some of the back-end development of the website, we will be using Keplr as an implementation for blockchain account management and wallet integrations  |
+| 1. | Website Launch | onenet. will build a website to be a central point of all information as well as acting as a location to mint, store, and view genesis NFTs. This website will act as both a location to view onenet.'s information as well as showcase Bushi as a whole. |
+| 2. | Keplr Integration | We have onboarded a developer to integrate Keplr into our website for minting, accessing, and viewing a user's NFT. |
 | 3. | sNFT Mint Contracts | Majority of the funding will allow us to commission a blockchain developer to help us create smart contracts to mint NFTs. Furthermore, we will need smart contracts to allow cosmetics and newer skins to be added to the initial mint of the NFT |
 
 
