@@ -93,7 +93,7 @@ In order to break into the esports scene as well as onboard traditional gamers i
 1. Website
 2. Keplr Integration
 3. sNFT Mint Contract (Holds Private Access to Alpha, also has “upgrade tech”) 
-4. Whitepaper
+4. Whitepaper (onenet.)
 5. In-game skin upgrade functionality
 6. Alpha Game Launcher
 7. UI/UX Update
