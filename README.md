@@ -105,26 +105,11 @@ In order to break into the esports scene as well as onboard traditional gamers i
 
 
 ## Go-to-Market Plan
-A surge of growth in blockchain gaming has led to interested game developers to take on the task of creating an appealing shooter.
+onenet. will release an NFT collection using sNFT technology to give initial purchasers access to the alpha launch for Bushi. With the genesis NFT collection, users will also gain lifetime access to every game launched on onenet. Furthermore, users will be awarded % airdrops of our token based on how many NFTs they own as well as how much they have burned into that NFT (NFT is upgradeable via tokens and relates to skin tiers 1-3 in Bushi).
 
-However, most focus on creating imbalances of strength with the addition of these NFTs. This only creates barriers of entry and financial disparities for players and their experiences.
+We plan to have an initial coin offering after the launch of Alpha. We believe that showcasing Bushi and gaining a credible reputation within the community is imperative to having a successful coin distribution. However, these genesis NFTs will help in accelerating our development and essentially continue to help bootstrap this project. 
 
-$BSHI is the native token in Bushi. Players can earn $BSHI through playing matches as well as purchase bundles of $BSHI to customize and upgrade their NFTs.
-Though $BSHI can be purchased, using this currency is not intended to add any additional performance increases or skill/strength disparities within the game.
-
-NFT Breakdown
-Players must mint an initial NFT to gain access to the alpha launch. These NFTs are meant to be cosmetic and are not intended to create disparities in performance within matches.
-The NFTs serve as a “Battlepass” and tracks players’ progression with tiered rewards.
-Unlock customizable skins by choosing paths through a progression tree. Going towards one path of the tree will lock all other paths.
-
-We will be releasing a mintable NFT that includes access to play in private alpha, gain access to our DAO, access to upgradeable skin tiers, and more.
-
-All revenue generated from our sales will go directly into additional development of the game and community.  We look to provide the best possible product for our initial alpha launch and our additional funding will help us in setting a higher standard for work.
-
-For any community that is interested in being represented in the game as early playable models, collecting our BushiNFTs will be imperative.
-
-Our grass-roots approach by accelerating our development process through our sales give us incentive to include communities that have opted to support us early in our announcements.
- These NFTs will also hold intrinsic voting weight for the future DAO and will be used to stake and vote on governance proposals.
+Marketing will be done by Leon and our partners to spread awareness to onenet. and Bushi. With the help of Secret Network, secretnodes, and other contributing members in the Cosmos, we will foster a community excited about Web3 Gaming as a whole.
 
 ## Value capture for Secret Network Ecosystem
 > *A vision to bring traditional gaming to the world of blockchain.*
