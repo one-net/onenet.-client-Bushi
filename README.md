@@ -192,7 +192,7 @@ Estimated Completion: 0-5 weeks - $15,000
 | 0c. | Documentation | We will provide documentation on our Github as well as bi-weekly updates on overall development of onenet.'s client and Bushi. |
 | 1. | Website Launch | onenet. will build a website to be a central point of all information as well as acting as a location to mint, store, and view genesis NFTs. This website will act as both a location to view onenet.'s information as well as showcase Bushi as a whole. |
 | 2. | Keplr Integration | We have onboarded a smart contract developer to integrate Keplr into our website. |
-| 3. | sNFT Mint Contracts | Majority of the funding will allow us to commission a blockchain developer to create smart contracts to mint our genesis NFTs. This contract will also hold technology for users to be able to "upgrade" their NFTs that would correlate to upgraded skins within Bushi. |
+| 3. | sNFT Mint Contracts | Our blockchain developer will create smart contracts to mint our genesis NFTs. This contract will also hold technology for users to be able to "upgrade" their NFTs that would correlate to upgraded skins within Bushi. |
 
 
 ### M2:
@@ -206,7 +206,7 @@ Estimated Completion: 6-11 weeks - $25,000
 | 1. | Whitepaper | We will deliver a detailed whitepaper for onenet.'s client and future incorporation of tokens, NFTs, and other digital assets. |
 | 2. | In-Game Character Skin Upgrade Functionality | In-game accounts should be able to query NFT metadata that are held in Keplr. |
 | 3. | Character model 2 Integration | We will integrate the second playable character model into the game. |
-
+| 4. | Smart Contract for upgrading NFTs | We will deliver a second contract to allow users to use SCRT to "upgrade" their NFTs that will showcase within the game's skin tier functions. |
 
 ### M3:
 Estimated Completion: 12-19 weeks - $30,000
