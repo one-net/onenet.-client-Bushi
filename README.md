@@ -149,7 +149,7 @@ Builders of -
 * TBD
 ## Team’s Experience
 Leon - 
-* Leon has 8+ years of design experience focusing heavily in the development of 3 major products on the Secret Network including secretnodes.org, Secret Wallet, and SecretDAO. Through working with the Secret Network, predominantly as Creative Director at Secret LLC, he has been able to integrate as a contributing leader in the Secret Network. Through his past experience working in the political and legal field, he also has expertise in marketing and legal compliance.
+* Leon has 8+ years of design experience focusing heavily in the development of 3 major products on the Secret Network including secretnodes.org, Secret Wallet, and SecretDAO. Through working with the Secret Network, predominantly as Creative Director at Secret LLC, he has been able to integrate as a contributing leader in the Secret Network. Through his past experience working in the political and legal field, he also has expertise in marketing and legal compliance. Leon also has previous esports experience competing as a semi-professional player in games like Valorant and Counter Strike: Global Offensive.
 
 John -
 * John has 5+ years working in traditional video game development environments. After receiving his bachelor's degree in Computer Engineering, he then spent 4+ years working in information technology while continually improving proficiency of different programming languages. John is also highly proficient within finances and has expertise in budgeting, risk management, compliance, and other accounting principals.
