@@ -74,7 +74,7 @@ In order to break into the esports scene as well as onboard traditional gamers i
 ## Detailed Product Description
 
 **Already Completed**
-1. Character Model (1)
+1. Character Models (2)
 2. Level Design (4 maps)
 3. 2 Game Modes (Team Deathmatch, King of the Hill)
 4. Early In-Game Mechanics
