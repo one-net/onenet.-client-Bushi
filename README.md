@@ -224,8 +224,8 @@ Estimated Completion: 12-19 weeks - $30,000
 | 0a. | License | Apache License, Version 2.0 |
 | 0b. | Description | Most of milestone two will push Bushi to get to Alpha and get it working with the created website as well as making sure that the NFT cosmetics get registered in-game |
 | 1. | Create Alpha Game Launcher | While our biggest goal is to create a multifunctional launcher platform, by the end of this project we will have an alpha that allows for communication between the chain and Bushi.  |
-| 2. | UI/UX Update |  |
-| 3. | Server Update/Infrastructure Overhaul |  |
+| 2. | UI/UX Update | Current UI/UX is completely designed for functionality rather than presentability. Some changes will have to be made to match the design that was set for the website as well as the launcher. |
+| 3. | Server Update/Infrastructure Overhaul | Perhaps the biggest change that will need to happen for Bushi is the migration from its current multiplayer system using Steam API to a more standalone version that will allow us to host games in our selected servers. |
 
 
 ### M4:
