@@ -159,14 +159,14 @@ Leon -
 * Leon has 8+ years of design experience focusing heavily in the development of 3 major products on the Secret Network including secretnodes.org, Secret Wallet, and SecretDAO. Through working with the Secret Network, predominantly as Creative Director at Secret LLC, he has been able to integrate as a contributing leader in the Secret Network. Through his past experience working in the political and legal field, he also has expertise in marketing and legal compliance.
 
 John -
-* John has 5+ years working in traditional video game development environments. After receiving his bachelor's degree in Computer Science, he then spent 4+ years working in information technology. John is also highly proficient within finances and has expertise in budgeting, risk management, compliance, and other accounting principals.
+* John has 5+ years working in traditional video game development environments. After receiving his bachelor's degree in Computer Engineering, he then spent 4+ years working in information technology while continually improving proficiency of different programming languages. John is also highly proficient within finances and has expertise in budgeting, risk management, compliance, and other accounting principals.
 
 Brandon -
 * Brandon has 5+ years of professional Software Engineering experience ranging from Game Development to Machine Learning. As a predominantly back-end focused developer, he is proficient in numerous programming languages and has taken on the responsibility of programming the infrastructure and server management of Bushi.
 
 Filip - 
 * Filip is a specialist in technical art design/project management and has 5+ years of professional experience working in traditional and blockchain based game development industries. Notably, he has worked in studios such as The Endless Collective, Ron Revog Inc., Kaon Interactive, and more.
-Ryan has more than 5 years of game and level design experience working heavily in the video game industry including Ruby Seven Studios and Afrowhale.
+Filip has more than 5 years of game and level design experience working heavily in the video game industry including Ruby Seven Studios and Afrowhale.
 
 Nick - 
 * Nick specializes in video game programming and focuses on languages used in Unity and Unreal Engine and has over 3+ years of working in the traditional game development industry. Notably, he has programmed the majority of the game mechanics seen in Bushi and has released numerous games as an independent developer.
