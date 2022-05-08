@@ -118,11 +118,12 @@ Key KPIs:
 * Unique Addresses onboarding
 * Capturing Web3 Gaming Community
 * Capturing a new Esports Demographic to Secret Network
+* Onboarding of traditional gamers to blockchain gaming
 * Awareness of SCRT brought by new users
 * Attracting new Game Developers to launch on onenet. client/Secret Network
 * Size of project scope for onenet. and Bushi
 
-With the success of Bushi and onenet., this will break into a rapidly growing industry of competitive gaming in crypto. In a 2021 report, Newzoo estimates the global gaming industry to grow from $176 billion in 2021 to $200 bilion by 2024. By riding this wave, we can capture a market that has been overlooked by many video game focused projects in crypto and onboard new users to the value of Secret Network's privacy preserving technology. Furthermore, shooter video game types ranks as 2nd overally in popularity within the industry and Bushi serves as a project to tackle this metric.
+With the success of Bushi and onenet., this will break into a rapidly growing industry of competitive gaming in crypto. In a 2021 report, Newzoo estimates the global gaming industry to grow from $176 billion in 2021 to $200 bilion by 2024. By riding this wave, we can capture a market that has been overlooked by many video game focused projects in crypto and onboard new users to the value of Secret Network's privacy preserving technology. Furthermore, shooter video game types rank as 2nd overall in popularity within the gaming industry and Bushi serves as a project to tackle this metric.
 
 
 
