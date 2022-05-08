@@ -155,7 +155,7 @@ John -
 * John has 5+ years working in traditional video game development environments. After receiving his bachelor's degree in Computer Engineering, he then spent 4+ years working in information technology while continually improving proficiency of different programming languages. John is also highly proficient within finances and has expertise in budgeting, risk management, compliance, and other accounting principals.
 
 Brandon -
-* Brandon has 5+ years of professional Software Engineering experience ranging from Game Development to Machine Learning. As a predominantly back-end focused developer, he is proficient in numerous programming languages and has taken on the responsibility of programming the infrastructure and server management of Bushi.
+* Brandon has 5+ years of professional Software Engineering experience in Machine Learning and 10+ years of Game Development experience. As a predominantly back-end focused developer, he is proficient in numerous programming languages and has taken on the responsibility of leading the development of Bushi.
 
 Filip - 
 * Filip is a specialist in technical art design/project management and has 5+ years of professional experience working in traditional and blockchain based game development industries. Notably, he has worked in studios such as The Endless Collective, Ron Revog Inc., Kaon Interactive, and more.
@@ -168,7 +168,7 @@ Alek -
 * Alek has 9+ years of professional front-end web development experience and is proficient in back end development as well. In his career, he has worked within multiple different industry disciplines and most notably has worked in compliance of legal software and front end development.
 
 Tina - 
-* Tina has 7+ years of industry experience working in AAA game development companies such as Blizzard and EA. She is a core contributing artist/advisor (Bushi Alpha version 3.1.0) and has heavily worked on Bushi in all aspects.
+* Tina has 7+ years of industry experience working in AAA game development companies such as Blizzard and EA. She is a core contributing character artist/advisor (Bushi Alpha version 3.1.0) and has heavily worked on Bushi in all aspects. With her extensive experience in the traditional gaming world, she acts as a bridge to a plethora of well-known and vetted artists, developers, and advisors.
 
 ## Team Code Repos
 https://github.com/one-net  
@@ -188,12 +188,11 @@ Estimated Completion: 0-5 weeks - $15,000
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
-| 0b. | Description | The first milestone aims to setup Bushi to connect to the blockchain. Through the route of NFTs, we can allow early birds to be able to access the game by using SCRT to secure their spot to Bushi Alpha and more. |
-| 0c. | Documentation | We will provide documentation on our Github as well as bi-weekly updates on overall development of Cherry Wallet. |
-| 0d. | Testing | |
+| 0b. | Description | The first milestone aims to raise awareness for Bushi as well as to create an NFT collection for private alpha access. Through the route of NFTs, we can allow early birds to be able to access the game by using SCRT to secure their spot to Bushi as well as grow a supportive community.|
+| 0c. | Documentation | We will provide documentation on our Github as well as bi-weekly updates on overall development of onenet.'s client and Bushi. |
 | 1. | Website Launch | onenet. will build a website to be a central point of all information as well as acting as a location to mint, store, and view genesis NFTs. This website will act as both a location to view onenet.'s information as well as showcase Bushi as a whole. |
-| 2. | Keplr Integration | We have onboarded a developer to integrate Keplr into our website for minting, accessing, and viewing a user's NFT. |
-| 3. | sNFT Mint Contracts | Majority of the funding will allow us to commission a blockchain developer to help us create smart contracts to mint NFTs. Furthermore, we will need smart contracts to allow cosmetics and newer skins to be added to the initial mint of the NFT |
+| 2. | Keplr Integration | We have onboarded a smart contract developer to integrate Keplr into our website. |
+| 3. | sNFT Mint Contracts | Majority of the funding will allow us to commission a blockchain developer to create smart contracts to mint our genesis NFTs. This contract will also hold technology for users to be able to "upgrade" their NFTs that would correlate to upgraded skins within Bushi. |
 
 
 ### M2:
@@ -204,9 +203,10 @@ Estimated Completion: 6-11 weeks - $25,000
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
 | 0b. | Description | Most of milestone two will push Bushi to get to Alpha and get it working with the created website as well as making sure that the NFT cosmetics get registered in-game |
-| 1. | Whitepaper | We will document a very detailed description of our platform as well as why we Bushi is important in our vision |
-| 2. | In-Game Character Skin Upgrade Functionality | In-game accounts should be able to query NFT cosmetics that were bought from the website. |
-| 4. | Upgradeable Skin Contract | Here is where players have the potential for play-to-earn. Once a skin is unlocked in-game, they should be able to upgrade their initial NFT skin and would be tied updated through another smart contract |
+| 1. | Whitepaper | We will deliver a detailed whitepaper for onenet.'s client and future incorporation of tokens, NFTs, and other digital assets. |
+| 2. | In-Game Character Skin Upgrade Functionality | In-game accounts should be able to query NFT metadata that are held in Keplr. |
+| 3. | Character model 2 Integration | We will integrate the second playable character model into the game. |
+
 
 ### M3:
 Estimated Completion: 12-19 weeks - $30,000
@@ -215,10 +215,10 @@ Estimated Completion: 12-19 weeks - $30,000
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
-| 0b. | Description | Most of milestone two will push Bushi to get to Alpha and get it working with the created website as well as making sure that the NFT cosmetics get registered in-game |
+| 0b. | Description | This milestone will overhaul the servers/infrastructure of Bushi to work within our central servers (started previous to milestone 1) |
 | 1. | Create Alpha Game Launcher | While our biggest goal is to create a multifunctional launcher platform, by the end of this project we will have an alpha that allows for communication between the chain and Bushi.  |
 | 2. | UI/UX Update | Current UI/UX is completely designed for functionality rather than presentability. Some changes will have to be made to match the design that was set for the website as well as the launcher. |
-| 3. | Server Update/Infrastructure Overhaul | Perhaps the biggest change that will need to happen for Bushi is the migration from its current multiplayer system using Steam API to a more standalone version that will allow us to host games in our selected servers. |
+| 3. | Server Update/Infrastructure Overhaul | Perhaps the biggest change that will need to happen for Bushi is the migration from its current multiplayer system using third-party API to a standalone version that will allow us to host games in our selected servers. |
 
 
 ### M4:
@@ -228,16 +228,18 @@ Estimated Completion: 20-24 weeks - $30,000
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
-| 0b. | Description | The last phase includes getting Bushi to be completely playable for alpha launch. This includes server stress testing, bug fixing, making it look as marketable as possible, as well as trying to get play testers to find any bugs |
-| 1. | Quality Assurance Testing | Continuous testing will need to be done to make sure user experience is seamless from website to launcher to the actual game |
+| 0b. | Description | The last phase includes getting Bushi to be completely playable for alpha launch. This includes server stress testing, bug fixing, complete UX/UI design, as well as quality assurance testing previous to the launch of alpha. |
+| 1. | Quality Assurance Testing | Continuous testing will need to be done to make sure user experience is seamless from website , to launcher, to the actual game itself |
 | 2. | Play Testing | Stress testing the servers will be required and to make sure that there are no issues that might break away from player immersion in-game. |
-| 3. | Bug Fixing/Balancing | Any data collected during play testing should provide enough information to let the game developers know on what needs to be fixed or balanced.  |
+| 3. | Bug Fixing/Balancing | Any data collected during play testing and stress testing should provide enough information to let the game developers know what needs to be fixed or balanced.  |
 | 4. | Launch Alpha! |  |
+
+Throughout these milestones, continuous marketing plans will be executed on a rolling basis. With the help of BizDev, secretnodes, and other partners, we will be able to spread awareness and cultivate a supportive community previou to the launch of alpha.
 
 ## Additional Information  
 Though Bushi will be the inevitable catalyst of future crypto gaming ventures by onenet., it is imperative to note that we plan to make cross-game functionality a focal point within our journey. By offering this cross-game functionality, we look to offer compelling, competitive, and highly addictive video games to the masses. By becoming one of the most dedicated video game development and blockchain specific studios in the Cosmos, we look to onboard users throughout to push Secret Network to being one of the most valued crypto projects in the space.
 
-onenet. also looks to break heavily into the e-sports world by offering prizes to tournament winners and dedicated players. Not only will this carve a future of long lasting video games, but it will cultivate a community that has been missing in the crypto gaming world for some time. Though we are not the first to tackle this dilemma, we will certainly look to lead the way as we progress.
+onenet. also looks to break heavily into the e-sports world by offering prizes to tournament winners and dedicated players. Not only will this carve a future of long lasting video games, but it will cultivate a community that has been missing in the crypto gaming world for some time. Though we are not the first to tackle this dilemma, we will certainly look to lead the way and carve a path for future developers to come.
 
 
 
