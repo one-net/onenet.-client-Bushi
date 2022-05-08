@@ -236,9 +236,9 @@ Estimated Completion: 20-24 weeks - $30,000
 | ------------- | ------------- | ------------- |
 | 0a. | License | Apache License, Version 2.0 |
 | 0b. | Description | The last phase includes getting Bushi to be completely playable for alpha launch. This includes server stress testing, bug fixing, making it look as marketable as possible, as well as trying to get play testers to find any bugs |
-| 1. | Quality Assurance Testing |  |
-| 2. | Play Testing |  |
-| 3. | Bug Fixing/Balancing |  |
+| 1. | Quality Assurance Testing | Continuous testing will need to be done to make sure user experience is seamless from website to launcher to the actual game |
+| 2. | Play Testing | Stress testing the servers will be required and to make sure that there are no issues that might break away from player immersion in-game. |
+| 3. | Bug Fixing/Balancing | Any data collected during play testing should provide enough information to let the game developers know on what needs to be fixed or balanced.  |
 | 4. | Launch Alpha! |  |
 
 ## Additional Information  
