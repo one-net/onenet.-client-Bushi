@@ -180,7 +180,7 @@ https://github.com/one-net
 These milestones may be completed previous/later than the estimated completion date. Updates will be made available to the public on a recurring basis.
 The total grant request equals $150,000 USD to reach the launch of our alpha in 4 disbursements. Disbursement in $SCRT is also accepted. 
 
-$15,000 awarded at the time of grant approval to bootstrap our project.
+$25,000 awarded at the time of grant approval to bootstrap our project.
 
 ### M1:
 Estimated Completion: 0-5 weeks - $15,000
@@ -196,7 +196,7 @@ Estimated Completion: 0-5 weeks - $15,000
 
 
 ### M2:
-Estimated Completion: 6-11 weeks - $15,000
+Estimated Completion: 6-11 weeks - $20,000
 
   
 | Number | Deliverable | Specification |
@@ -209,7 +209,7 @@ Estimated Completion: 6-11 weeks - $15,000
 | 4. | Smart Contract for upgrading NFTs | We will deliver a second contract to allow users to use SCRT to "upgrade" their NFTs that will showcase within the game's skin tier functions. |
 
 ### M3:
-Estimated Completion: 12-19 weeks - $15,000
+Estimated Completion: 12-19 weeks - $10,000
 
   
 | Number | Deliverable | Specification |
@@ -222,7 +222,7 @@ Estimated Completion: 12-19 weeks - $15,000
 
 
 ### M4:
-Estimated Completion: 20-24 weeks - $15,000
+Estimated Completion: 20-24 weeks - $5,000
 
   
 | Number | Deliverable | Specification |
