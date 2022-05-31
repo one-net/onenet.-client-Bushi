@@ -2,7 +2,7 @@
 
 * **Project Name:** Project onenet x Bushi
 * **Team Name:** onenet.
-* **Payment Address:** 
+* **Payment Address:** secret1sqmdt5998xe7swnpszhar3emaul49rjvtjafvt
 
 
 
