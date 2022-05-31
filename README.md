@@ -236,6 +236,26 @@ Estimated Completion: 20-24 weeks - $5,000
 
 Throughout these milestones, continuous marketing plans will be executed on a rolling basis. With the help of BizDev, secretnodes, and other partners, we will be able to spread awareness and cultivate a supportive community previou to the launch of alpha.
 
+
+## Future Plans (12-24 months) and Our Commitment to Secret Network
+In this new era of cryptocurrency and blockchain technology, development teams come and go frequently. For us, we have a special connection with the Secret Network and plan to stay in the ecosystem for the foreseeable future. Our plans have always revovled around building on the Secret Network and we are dedicated to making onenet. client the absolute gaming hub for SN and the Cosmos. Here are some of our future plans:
+
+Bushi -
+* Continuous Game Support for Bushi
+* Continuous model, animation, art, etc. upgrades
+* Ongoing playable character releases
+* Creation of modding support
+* Additional game modes
+* Tournaments, prizes, and reward incentives
+* Leaderboards and rankings functionality
+
+onenet. client -
+* Game hub for Secret Network and possibly the Cosmos
+* Game NFT marketplace
+* Friend list, chat, community forums, and news support
+* Modding support for game developers
+* Additional games on client
+
 ## Additional Information  
 Though Bushi will be the inevitable catalyst of future crypto gaming ventures by onenet., it is imperative to note that we plan to make cross-game functionality a focal point within our journey. By offering this cross-game functionality, we look to offer compelling, competitive, and highly addictive video games to the masses. By becoming one of the most dedicated video game development and blockchain specific studios in the Cosmos, we look to onboard users throughout to push Secret Network to being one of the most valued crypto projects in the space.
 
