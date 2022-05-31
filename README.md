@@ -234,6 +234,12 @@ Estimated Completion: 20-24 weeks - $5,000
 | 3. | Bug Fixing/Balancing | Any data collected during play testing and stress testing should provide enough information to let the game developers know what needs to be fixed or balanced.  |
 | 4. | Launch Alpha! |  |
 
+An optional $25k USD milestone disbursment was mentioned by Guy to reward performance metrics for post alpha launch. This can vary, but some metrics could be:
+* How many users we have in the first month of playability
+* Volume of trades on the client
+* New user oboarding metrics
+* etc...
+
 Throughout these milestones, continuous marketing plans will be executed on a rolling basis. With the help of BizDev, secretnodes, and other partners, we will be able to spread awareness and cultivate a supportive community previou to the launch of alpha.
 
 
@@ -248,6 +254,7 @@ Bushi -
 * Additional game modes
 * Tournaments, prizes, and reward incentives
 * Leaderboards and rankings functionality
+* Ongoing quality assurance and documentation
 
 onenet. client -
 * Game hub for Secret Network and possibly the Cosmos
