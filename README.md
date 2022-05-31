@@ -258,19 +258,15 @@ Bushi -
 
 onenet. client -
 * Game hub for Secret Network and possibly the Cosmos
-* Game NFT marketplace
+* Game/NFT marketplace
 * Friend list, chat, community forums, and news support
 * Possible modding support for game developers
 * Additional games on client
+* Possible mobile version
 
 ## Additional Information  
 Though Bushi will be the inevitable catalyst of future crypto gaming ventures by onenet., it is imperative to note that we plan to make cross-game functionality a focal point within our journey. By offering this cross-game functionality, we look to offer compelling, competitive, and highly addictive video games to the masses. By becoming one of the most dedicated video game development and blockchain specific studios in the Cosmos, we look to onboard users throughout to push Secret Network to being one of the most valued crypto projects in the space.
 
 onenet. also looks to break heavily into the e-sports world by offering prizes to tournament winners and dedicated players. Not only will this carve a future of long lasting video games, but it will cultivate a community that has been missing in the crypto gaming world for some time. Though we are not the first to tackle this dilemma, we will certainly look to lead the way and carve a path for future developers to come.
-
-
-
-
-
 
 
