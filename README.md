@@ -193,7 +193,7 @@ Estimated Completion: 0-5 weeks - $15,000
 | 1. | Website Launch | onenet. will build a website to be a central point of all information as well as acting as a location to mint, store, and view genesis NFTs. This website will act as both a location to view onenet.'s information as well as showcase Bushi as a whole. |
 | 2. | Keplr Integration | We have onboarded a smart contract developer to integrate Keplr into our website. |
 | 3. | sNFT Mint Contracts | Our blockchain developer will create smart contracts to mint our genesis NFTs. This contract will also hold technology for users to be able to "upgrade" their NFTs that would correlate to upgraded skins within Bushi. |
-| 4. | Migration from UE4 to UE5 | Unreal Engine has had a huge overhaul and recently released Unreal Engine 5. Porting the game to the new engine is a good investment for the later stages of the project and will increase the overall quality, performance, and workflow for our group. |
+| 4. | Migration from UE4 to UE5 | Unreal Engine has had a huge overhaul and recently released Unreal Engine 5. We will port over Bushi from UE4 to UE5 to ensure that our future development will be as smooth and as quality as possible. |
 
 ### M2:
 Estimated Completion: 6-11 weeks - $20,000
