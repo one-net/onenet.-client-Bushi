@@ -180,10 +180,10 @@ https://github.com/one-net
 These milestones may be completed previous/later than the estimated completion date. Updates will be made available to the public on a recurring basis.
 The total grant request equals to $75,000 USD to reach the launch of our alpha in 4 disbursements. Disbursement in $SCRT is also accepted. 
 
-$25,000 awarded at the time of grant approval to bootstrap our project.
+$15,000 awarded at the time of grant approval to bootstrap our project.
 
 ### M1:
-Estimated Completion: 0-5 weeks - $15,000
+Estimated Completion: 0-5 weeks - $25,000
   
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
