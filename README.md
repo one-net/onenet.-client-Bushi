@@ -2,13 +2,13 @@
 
 * **Project Name:** Project onenet x Bushi
 * **Team Name:** onenet.
-* **Payment Address:** secret1sqmdt5998xe7swnpszhar3emaul49rjvtjafvt
+* **Payment Address:** secret1p3sph6ws3mxvkcfnwyzctf5d7fyzjtue2930cw
 
 
 
 ## Project Description
 onenet.-
-* onenet. is a multi-purpose video game launch client that will host multiple cross-functionality video games. This launch client will work in tandem with our tokens, NFTs, and other digital assets to be able to be used in all video games hosted on this client.
+* onenet. is a video game platform that will host multiple cross-functionality video games. This platform will work in tandem with our tokens, NFTs, and other digital assets to be able to be used in all video games hosted on this client.
 
 Imagine that Jessy purchased $100 of token in onenet.'s client. She purchases this token to use on Game 1, a video game hosted on onenet. Though she purchased these coins originally to use in Game 1, her interest has turned to wanting to use these tokens on assets in Game 2. Because both games are hosted on onenet., she is able to use these newly purchased tokens and use them in all games hosted on the client. This is interchangeable with NFT(s).
 
@@ -90,26 +90,32 @@ In order to break into the esports scene as well as onboard traditional gamers i
 14. Branding
 
 **Grant Deliverables**
-1. Website
-2. Keplr Integration
-3. sNFT Mint Contract (Holds Private Access to Alpha, also has “upgrade tech”) 
-4. Whitepaper (onenet.)
-5. In-game skin upgrade functionality
-6. Alpha Game Launcher
-7. UI/UX Update
-8. Server Update/Infrastructure Overhaul
-9. Quality Assurance Testing
-10. Sound Design Changes
-11. Alpha Launch!
+1. Website Launch
+2. Migration from Unreal Engine 4 to Unreal Engine 5
+3. NFT Genesis Collection Development and Release
+4. Account Creation Integration - Unique ID Creation
+5. onenet. Website to Launcher Integration
+6. In-Game Character Skin Functionality
+7. Animations/Lighting Upgrade
+8. Whitepaper/Tokenomic Release
+9. Design and Release of 2nd Playable Character
+10. UX/UI Overhaul - Bushi
+11. Server/Infrastructure Overhaul
+12. Alpha UX/UI Upgrade of onenet.
+13. Alpha Launch of onenet.
+14. Alpha Launch of Bushi
+15. Alpha Tester Data Collection
+16. Further Bug Fixing/Balancing/Game Design Changes
+17. Full launch of Bushi
 
 
 
 ## Go-to-Market Plan
-onenet. will release an NFT collection using sNFT technology to give initial purchasers access to the alpha launch for Bushi. With the genesis NFT collection, users will also gain lifetime access to every game launched on onenet. Furthermore, users will be awarded % airdrops of our token based on how many NFTs they own as well as how much they have burned into that NFT (NFT is upgradeable via tokens and relates to skin tiers 1-3 in Bushi).
+With our connections made through years of experience working in the traditional game industry, we look to capture non-crypto enthusiasts and onboard them onto our platform.
 
-We plan to have an initial coin offering after the launch of Alpha. We believe that showcasing Bushi and gaining a credible reputation within the community is imperative to having a successful coin distribution. However, these genesis NFTs will help in accelerating our development and essentially continue to help bootstrap this project. 
+This is a major initiative we look to accomplish and is a major reason as to why we have focused on making Bushi a fun and exciting game for all markets to begin with.
 
-Marketing will be done by Leon and our partners to spread awareness to onenet. and Bushi. With the help of Secret Network, secretnodes, and other contributing members in the Cosmos, we will foster a community excited about Web3 Gaming as a whole.
+We are here to blur the lines between web3 video games and the traditional market to grow our platform as well as the Secret Network and beyond.
 
 ## Value capture for Secret Network Ecosystem
 > *A vision to bring traditional gaming to the world of blockchain.*
@@ -146,7 +152,7 @@ Builders of -
 * SecretDAO
 
 ## Team Website
-* TBD
+* launchonenet.io
 ## Team’s Experience
 Leon - 
 * Leon has 8+ years of design experience focusing heavily in the development of 3 major products on the Secret Network including secretnodes.org, Secret Wallet, and SecretDAO. Through working with the Secret Network, predominantly as Creative Director at Secret LLC, he has been able to integrate as a contributing leader in the Secret Network. Through his past experience working in the political and legal field, he also has expertise in marketing and legal compliance. Leon also has previous esports experience competing as a professional player in Valorant and Counter Strike: Global Offensive.
@@ -173,7 +179,6 @@ Tina -
 ## Team Code Repos
 https://github.com/one-net  
 
-## Team LinkedIn Profiles
 
 ## Development Roadmap
 ### Milestones 
@@ -183,86 +188,105 @@ The total grant request equals to $75,000 USD to reach the launch of our alpha i
 $15,000 awarded at the time of grant approval to bootstrap our project.
 
 ### M1:
-Estimated Completion: 0-5 weeks - $25,000
+Estimated Completion: 1-5 weeks - $15,000
   
-| Number | Deliverable | Specification |
-| ------------- | ------------- | ------------- |
-| 0a. | License | Apache License, Version 2.0 |
-| 0b. | Description | The first milestone aims to raise awareness for Bushi as well as to create an NFT collection for private alpha access. Through the route of NFTs, we can allow early birds to be able to access the game by using SCRT to secure their spot to Bushi as well as grow a supportive community.|
-| 0c. | Documentation | We will provide documentation on our Github as well as bi-weekly updates on overall development of onenet.'s client and Bushi. |
-| 1. | Website Launch | onenet. will build a website to be a central point of all information as well as acting as a location to mint, store, and view genesis NFTs. This website will act as both a location to view onenet.'s information as well as showcase Bushi as a whole. |
-| 2. | Keplr Integration | We have onboarded a smart contract developer to integrate Keplr into our website. |
-| 3. | sNFT Mint Contracts | Our blockchain developer will create smart contracts to mint our genesis NFTs. This contract will also hold technology for users to be able to "upgrade" their NFTs that would correlate to upgraded skins within Bushi. |
-| 4. | Migration from UE4 to UE5 | Unreal Engine has had a huge overhaul and recently released Unreal Engine 5. We will port over Bushi from UE4 to UE5 to ensure that our future development will be as smooth and as quality as possible. |
+* Website Launch
+  * Version 1 of the website will set the stage for the upcoming genesis NFT collection as well as building a strong community.
+* Migration from Unreal Engine 4 to Unreal Engine 5
+  * We will port over Bushi from UE4 to UE5 to ensure that our future development is set for success.
+* NFT Genesis Collection Development and Release
+  * We will release our NFT collection to be mintable on our website. NFT utility will be released shortly.
+* Account Creation Integration - Unique ID Creation
+  * We will develop an account creation flow that will create a unique ID without having to store any sensitive data.
 
 ### M2:
-Estimated Completion: 6-11 weeks - $20,000
+Estimated Completion: 6-14 weeks - $20,000
 
   
-| Number | Deliverable | Specification |
-| ------------- | ------------- | ------------- |
-| 0a. | License | Apache License, Version 2.0 |
-| 0b. | Description | Most of milestone two will push Bushi to get to Alpha and get it working with the created website as well as making sure that the NFT cosmetics get registered in-game |
-| 1. | Whitepaper | We will deliver a detailed whitepaper for onenet.'s client and future incorporation of tokens, NFTs, and other digital assets. |
-| 2. | In-Game Character Skin Upgrade Functionality | In-game accounts should be able to query NFT metadata that are held in Keplr. |
-| 3. | Character model 2 Integration | We will integrate the second playable character model into the game. |
-| 4. | Smart Contract for upgrading NFTs | We will deliver a second contract to allow users to use SCRT to "upgrade" their NFTs that will showcase within the game's skin tier functions. |
+* onenet. Website to Launcher Integration
+  * We will create our dapp that will show the first looks of the onenet. platform.
+* In-Game Character Skin Functionality
+  * Skin upgrades will be integrated into the game along with an “inventory” feature.
+* Animations/Lighting Upgrade
+* Whitepaper/Tokenomic Release
+* Design and Release of 2nd Playable Character
+  * The second 3D model for Bushi will be integrated into the game. This includes rigging, animating, painting, shading, etc...
 
 ### M3:
-Estimated Completion: 12-19 weeks - $10,000
+Estimated Completion: 15-24 weeks - $20,000
 
   
-| Number | Deliverable | Specification |
-| ------------- | ------------- | ------------- |
-| 0a. | License | Apache License, Version 2.0 |
-| 0b. | Description | This milestone will overhaul the servers/infrastructure of Bushi to work within our central servers (started previous to milestone 1) |
-| 1. | Create Alpha Game Launcher | While our biggest goal is to create a multifunctional launcher platform, by the end of this project we will have an alpha that allows for communication between the chain and Bushi.  |
-| 2. | UI/UX Update | Current UI/UX is completely designed for functionality rather than presentability. Some changes will have to be made to match the design that was set for the website as well as the launcher. |
-| 3. | Server Update/Infrastructure Overhaul | Perhaps the biggest change that will need to happen for Bushi is the migration from its current multiplayer system using third-party API to a standalone version that will allow us to host games in our selected servers. |
+* UX/UI Overhaul - Bushi
+* Server/Infrastructure Overhaul
+  * We will deliver a completely overhauled version of our servers to allow for functionality on onenet.
+* Alpha UX/UI Upgrade of onenet.
+* Alpha Launch of onenet.
+  * This version will be able to launch Bushi, update Bushi, as well as show some features from the onenet. website.
+* Alpha Launch of Bushi
+  * This is projected to release in December of 2022
 
 
 ### M4:
-Estimated Completion: 20-24 weeks - $5,000
+Estimated Completion: 25-40 weeks - $5,000
 
   
-| Number | Deliverable | Specification |
-| ------------- | ------------- | ------------- |
-| 0a. | License | Apache License, Version 2.0 |
-| 0b. | Description | The last phase includes getting Bushi to be completely playable for alpha launch. This includes server stress testing, bug fixing, complete UX/UI design, as well as quality assurance testing previous to the launch of alpha. |
-| 1. | Quality Assurance Testing | Continuous testing will need to be done to make sure user experience is seamless from website , to launcher, to the actual game itself |
-| 2. | Play Testing | Stress testing the servers will be required and to make sure that there are no issues that might break away from player immersion in-game. |
-| 3. | Bug Fixing/Balancing | Any data collected during play testing and stress testing should provide enough information to let the game developers know what needs to be fixed or balanced.  |
-| 4. | Launch Alpha! |  |
+* Alpha Tester Data Collection
+* Further Bug Fixing/Balancing/Game Design Changes
+* Full launch of Bushi
+  * This is projected to launch in Q2 of 2023
 
-An optional $25k USD milestone disbursment was mentioned by Guy to reward performance metrics for post alpha launch. This can vary, but some metrics could be:
-* How many users we have in the first month of playability
-* Volume of trades on the client
-* New user oboarding metrics
-* etc...
+### Performance Milestone:
+25k Milestone Based on Performance Metrics
 
-Throughout these milestones, continuous marketing plans will be executed on a rolling basis. With the help of BizDev, secretnodes, and other partners, we will be able to spread awareness and cultivate a supportive community previou to the launch of alpha.
+A performance based milestone disbursement of $25k USD will be incorporated based on these metrics:
+
+* 1,000 Users - 
+  * $2,000 Disbursement
+* 5,000 Users - 
+  * $5,000 Disbursement
+* 10,000 Users - 
+  * $8,000 Disbursement
+* 25,000 Users -
+  * $10,000 Disbursement
+
+In order to verify on our desktop client that the user has permission/access to their Keplr wallet and that the user truly owns the public address being received:
+
+A user must create an account on our website by connecting their wallet and approving a transaction.
+This transaction will create a unique ID for our central servers to store.
+This unique ID, along with their preferred username and hashed password, would be stored on our servers allowing for no human other than the account creator to have access to sensitive data.
+
+There will also be a traditional email account creation flow for those who do not want to interact with the NFT/Crypto aspect of the platform.
 
 
-## Future Plans (12-24 months) and Our Commitment to Secret Network
+## The Future and Our Commitment to Secret Network
 In this new era of cryptocurrency and blockchain technology, development teams come and go frequently. For us, we have a special connection with the Secret Network and plan to stay in the ecosystem for the foreseeable future. Our plans have always revovled around building on the Secret Network and we are dedicated to making onenet. client the absolute gaming hub for SN and the Cosmos. Here are some of our future plans:
 
-Bushi -
-* Continuous Game Support for Bushi
-* Continuous model, animation, art, etc. upgrades
-* Ongoing playable character releases
-* Possible creation of modding support
-* Additional game modes
-* Tournaments, prizes, and reward incentives
-* Leaderboards and rankings functionality
-* Ongoing quality assurance and documentation
+Stage 0: Community Building x Fundraiser Event x Announcement of DAO
+* | We’ve already begun our community building initiatives with the launch of our Discord, Twitter, and YouTube. We look to launch our website with intention of building a strong community for our upcoming NFT fundraiser event that will accelerate the development of Bushi and onenet.
 
-onenet. client -
-* Game hub for Secret Network and possibly the Cosmos
-* Game/NFT marketplace
-* Friend list, chat, community forums, and news support
-* Possible modding support for game developers
-* Additional games on client
-* Possible mobile version
+Stage 1: Tokenomics Release x 2nd Playable Character Model Announcement
+* | We look to release an in-depth whitepaper outlining onenet. that includes the tokenomics breakdown of our native currency, $ONE. This will set the stage for users to understand the full scope of onenet. and our title video game, Bushi.
+
+* | We will also announce the 2nd playable character model as we bring more depth to Bushi and expand on lore.
+
+Stage 2: Launch of Bushi x Launch of onenet. x Launch of DAO
+* | The first optimized alpha version of Bushi will launch and players will be able to experience the gameplay first-hand for first time.
+
+* | Users will also experience onenet.’s alpha version for the first time. During this time, holders of our NFT will be able to shape onenet. through governance and community discussions.
+
+Stage 3: Token Release x Anti-Cheat Upgrade x Full Release of Bushi
+*  We will release the $ONE token to the community to start the economy within onenet. and Bushi. During this time, we also look to integrate a large anti-cheat software overhaul for the community. This stage also marks the full release of Bushi to be free-to-play to the community.
+
+Stage 4: First Major Tournament Event x In-Game Quality of LIfe Upgrade x Games Support
+* | We will introduce in-game tournament quality of life changes such as observer camera, observer scoreboard, etc... With this, we will set the stage for our first official tournament event with a prize pool for top competitors.
+
+* | Additionally, we will upgrade onenet. to support future planned video games hosted on the client.
+
+Stage 5: Second onenet. Game Announcement x Modding Support
+* | We will announce the second game coming to onenet. Details will be released near this time.
+
+* | Modding support such as map creation, custom mechanics creation, etc... will be released to the onenet. client and Bushi.
+
 
 ## Additional Information  
 Though Bushi will be the inevitable catalyst of future crypto gaming ventures by onenet., it is imperative to note that we plan to make cross-game functionality a focal point within our journey. By offering this cross-game functionality, we look to offer compelling, competitive, and highly addictive video games to the masses. By becoming one of the most dedicated video game development and blockchain specific studios in the Cosmos, we look to onboard users throughout to push Secret Network to being one of the most valued crypto projects in the space.
